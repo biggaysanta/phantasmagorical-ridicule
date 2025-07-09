@@ -65,5 +65,6 @@
     }
   ],
   "frontMatter.website.host": "https://paulbrown.net",
-  "frontMatter.framework.startCommand": "hugo server -D -ignorefastrender"
+  "frontMatter.framework.startCommand": "hugo server -D  -disablefastrender",
+  "frontMatter.panel.openOnSupportedFile": true
 }

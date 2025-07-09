@@ -1,3 +1,5 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://paulbrown.net/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Paul Brown, CMT'
+subtitle = 'The Home of Zero Point Advanced Myofascial Release'
+environment = 'development'
