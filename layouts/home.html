@@ -7,16 +7,18 @@
         <header>
             {{ partial "header.html"}}
             <nav>
-                {{ partial "menu.html" }}
+                {{ partial "menu.html" (dict "menuID" "main")}}
+                <p>Debug: menuID passed to partial = {{ "main" }}</p>
             </nav>
         </header>
         <main>
+           {{ $sections := .Page.sections }}
             <section>
                 {{ partial "section.html" }}
             </section>
         </main>
         <footer>
-            {{ partial "footer.html" }}
+            {{ partial "/footer.html" }}
         </footer>
     </body>
 </html>

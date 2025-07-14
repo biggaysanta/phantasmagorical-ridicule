@@ -1,11 +1,28 @@
 ---
-title: "Meet Connie, my state of the art massage table"
-date: "2020-05-25"
-coverImage: "model800cfull.png"
+title: No More Low Back Pain - Advanced Massage Table
+description: Having an advanced massage table means comfort for you, and ergonomics for me!  See the difference having the right tools makes!
+tags:
+    - about
+    - abraham maslow
+    - body mechanics
+    - comfort craft model 800
+    - massage table
+    - patient comfort
+    - accessibility
+categories:
+    - about paul
+slug: no-more-pain-advanced-massage-table
 ---
 
+> 
+> "When all you have is a hammer, everything looks like a nail."
+> - Abraham Maslow
+>
+
 ![No more back pain - advanced massage table image](images/model800cfull-1024x768.png)  
-![person laying prone upon an open comfort craft model 800 massage table](images/model800cfull-1024x768.png)I use the state of the art Comfort Craft Model 800 table in my massage practice.  This table is different from most other massage tables in several important ways.
+![person laying prone upon an open comfort craft model 800 massage table](images/model800cfull-1024x768.png)
+
+I use an amazing Comfort Craft Model 800 table in my massage practice.  This table is different from most other massage tables in several important ways.
 
 ## Benefits of an Advanced Massage Table
 
@@ -19,3 +36,5 @@ coverImage: "model800cfull.png"
 For you, the client, it means that you can be assured of a relaxing experience unlike any other you may have had before.  For me as the massage therapist, it means less energy placing my body into the correct position in relationship to the table, and more energy focused on helping your relax in comfort!
 
 ### Having the right tools makes for a better outcome
+
+See the difference having the right tools make by [booking a session today](https://paulbrown.noterro.com/\)!

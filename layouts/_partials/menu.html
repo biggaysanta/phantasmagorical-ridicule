@@ -1,5 +1,6 @@
 {{- $page := .page }}
 {{- $menuID := .menuID }}
+{{ printf "Debug: $menuID = %#v $menuID"}}
 
 {{- with index site.Menus $menuID }}
   <nav>

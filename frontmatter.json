@@ -56,15 +56,15 @@
       "path": "[[workspace]]/content"
     },
     {
-      "title": "content",
-      "path": "[[workspace]]/content"
-    },
-    {
       "title": "archetypes",
       "path": "[[workspace]]/archetypes"
+    },
+    {
+      "title": "layouts",
+      "path": "[[workspace]]/layouts"
     }
   ],
   "frontMatter.website.host": "https://paulbrown.net",
-  "frontMatter.framework.startCommand": "hugo server -D  -disablefastrender",
+  "frontMatter.framework.startCommand": "hugo server -D",
   "frontMatter.panel.openOnSupportedFile": true
 }

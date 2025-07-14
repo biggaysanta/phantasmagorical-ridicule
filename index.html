@@ -1,65 +1,218 @@
 <!DOCTYPE html>
 <html lang="en-us">
     <head>
-        <title>Paul Brown, CMT</title>
+        <link rel="stylesheet" href="css/w3.css">
+        <link rel="stylesheet" href="css/pbmt-overall.css">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Abril+Fatface|Poppins">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <title>{{ .Title }}</title>
         <meta name="description" value="The online home of Paul Brown, CMT, and Zero Point Advanced Myofascial Therapy">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <style>
-            body {background-color: linen; color: black; font[ size:- 14 pt; color: navy]
-            color+}
+            .header {background-color: #0a4009; w3-text-emerald}
         </style>
-    </head>
-    <body>
-        <header stule="bg-color='0000FF' color='FFFF00'">
+</head>
+    <body class="w3-container">
+        <header class="w3-panel w3-deepest-green w3-bottombar">
+                <img src="images/zplogo.png" class="w3-image">
                 <h1>Welcome to Paul Brown, CMT</h1>
-                <h2>The home of Zero Point Advanced Myofascial Release</h2>
+                <h2>The Home of Zero Point Advanced Myofascial Release</h2>
                 <address>717 K Street, Suite 204, Sacramento, CA 95814</address>
                 <p><strong>916-534-8772</strong></p>
-            </header>    
-        <section>
-                <h2>Hello, friend, what brings you here today?</h2>
-        </section>
-        <section id="ZPAMFR">
-            <div>
-                <h3>Looking for Pain Relief?</h3>
-                <p>Then you want my Zero Point Advanced Myofascial Release Session. Book a 60 minute initial session, and during the intake and consultation, we will collaborate to come up with a treatment plan, do the work, them reassess from there.  </p>
-                <button onclick="document.URL = 'https://paulbrown.noterro.com/service/218579/myofascial-therapy'">Book Now!</button>"
+            <nav class="w3-bar w3-topbar w3-emerald w3-center">
+                    <a href="index.html" class="w3-bar-item w3-mobile w3-emerald w3-button w3-hover-teal w3-hover-text-black fa fa-home w3-padding">&nbsp;Home</a>
+                    <a href="https://paulbrown.noterro.com" class="w3-bar-item w3-mobile w3-emerald w3-hover-teal w3-button fa fa-book w3-padding">&nbsp;Book Now!</a>
+                    <a href="#about" class="w3-bar-item w3-mobile w3-emerald w3-hover-teal w3-button fa fa-question w3-padding">&nbsp;About Paul</a>
+                    <a href="#contact" class="w3-button w3-mobile w3-emerald w3-bar-item w3-hover-teal fa fa-map w3-padding">&nbsp;Location</a>
+                    <a href="#contact" class="w4-bar-item w3-mobile w3-button w3-emerald w3-hover-teal fa fa-phone-square w3-padding">&nbsp;Contact</a>
+            </nav>
+            </header>
+        </div>
+        <main class="w3-container">
+            <section>
+                    <h2>Hello, friend, what brings you here today?</h2>
+            </section>
+            <section id="zp">
+                <div>
+                    <h3>Looking for Pain Relief?</h3>
+                    <p>Then you want my Zero Point Advanced Myofascial Release Session. Book a 60 minute initial session, and during the intake and consultation, we will collaborate to come up with a treatment plan, do the work, them reassess from there.  </p>
+                    <button onclick="document.URL = 'https://paulbrown.noterro.com/service/218579/myofascial-therapy'">Book Now!</button>"
 
+                </div>
+            </section>
+            <section id="twrm">
+                <div>
+                    <h3>Need some relief from this crazy, mixed-up world?</h3>
+                    <p>Check out my Tidal Wave Relaxation Massage - a 60, 90, or 120 minute session will wipe your stress away!/p>
+                        <button id="60TWRM" onclick="document.URL = 'https://paulbrown.noterro.com/service/26509/the-tidal-wave'">Book the Tidal Wave</button>
             </div>
-        </section>
-        <section id="TWRM">
-            <div>
-                <h3>Need some relief from this crazy, mixed-up world?</h3>
-                <p>Check out my Tidal Wave Relaxation Massage - a 60, 90, or 120 minute session will wipe your stress away!/p>
-                    <button id="60TWRM" onclick="document.URL = 'https://paulbrown.noterro.com/service/26509/the-tidal-wave'">Book the Tidal Wave</button>
-           </div>
-        </section>
-        <section id="wcsm">
-            <div>
-                <h3>Maybe you're training for an event, or just completed it, or just looking to supplement your workout regimen...</h3>
-                <p>The Winner's Circle Sports Massage is just what the massage therapist ordered!</p>
-                <button id="wcsm" onclick="document.URL = 'https://paulbrown.noterro.com/service/26514/sports-massage'" >Click to enter The Winner's Circle!</button>
-            </div>
-        </section>
-        <section id="cmw">
-            <h3>Then you must be looking for the OG and still the best Couple's Massage Workshop!</h3>
-            <p>In this two-hour private class, you and your loved one will learn:
-                <ul>
-                    <li>The Whole Body Does the Massage</li>
-                    <li>through the process of Weight Transfer</li>
-                    <li>while maintaining a good Line of Force</li>
-                    <li>and the Hands Move Last</li>
-                    <li>and you Back Up to Get Low</li>
-                </ul>
-            </p>
-            <p>With these five priciples, you will learn how to stand, move, hold your hands, and perform the massage strokes.  Each of you will receive 45 minutes of individual instruction, and at the end of the session, you will have given each other a full, back of the body Swedish Massage!  It's fun, and we will laugh a lot, and learn a useful skill!</p>
-            <p>My Couple's Massage Workshop can only be book via telephone: <a href="tel://9165348772">Call Now!</a></p>
-        </section>
-        <section>
-            <h3>My Award-winning Massage Blog!</h3>
-            <p>The blog is undergoing reeconstruction, and will be back open soon!</p>
-        </section>
-        <footer>
+            </section>
+            <section id="wcsm">
+                <div>
+                    <h3>Maybe you're training for an event, or just completed it, or just looking to supplement your workout regimen...</h3>
+                    <p>The Winner's Circle Sports Massage is just what the massage therapist ordered!</p>
+                    <button id="wcsm" onclick="document.URL = 'https://paulbrown.noterro.com/service/26514/sports-massage'" >Click to enter The Winner's Circle!</button>
+                </div>
+            </section>
+            <section id="cmw">
+                <h3>Then you must be looking for the OG and still the best Couple's Massage Workshop!</h3>
+                <p>In this two-hour private class, you and your loved one will learn:
+                    <ul>
+                        The Whole Body Does the Massage
+                        through the process of Weight Transfer
+                        while maintaining a good Line of Force
+                        and the Hands Move Last
+                        and you Back Up to Get Low
+                    </ul>
+                </p>
+                <p>With these five priciples, you will learn how to stand, move, hold your hands, and perform the massage strokes.  Each of you will receive 45 minutes of individual instruction, and at the end of the session, you will have given each other a full, back of the body Swedish Massage!  It's fun, and we will laugh a lot, and learn a useful skill!</p>
+                <p>My Couple's Massage Workshop can only be book via telephone: <a href="tel://9165348772">Call Now!</a></p>
+            </section>
+            <section>
+                <h3>My Award-winning Massage Blog!</h3>
+                <p>The blog is undergoing reeconstruction, and will be back open soon!</p>
+            </section>
+       </main>
+        <footer class="w3-container w3-black w3-padding-16">
             <p>Copyright 2025, Paul Brown, CMT, all rights reserved</p>
         </footer>
     </body>
+    
+<body class="w3-content" style="max-width:1300px">
+
+<!-- First Grid: Logo & About -->
+<div class="w3-row">
+  <div class="w3-half w3-blue-grey w3-container" style="height:700px">
+    <div class="w3-padding-64 w3-center">
+      <h1>About Me</h1>
+      <img src="images/avatar3.png" class="w3-margin w3-circle" alt="Paul Brown, CMT" style="width:50%">
+      <div class="w3-left-align w3-padding-large">
+        <p>Lorem ipusm sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
+        <p>Lorem ipusm sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Second Grid: Work & Resume -->
+<div class="w3-row">
+  <div class="w3-half w3-light-grey w3-center" style="min-height:800px" id="work">
+    <div class="w3-padding-64">
+      <h2>My Work</h2>
+      <p>Some of my latest projects.</p>
+    </div>
+    <div class="w3-row">
+      <div class="w3-half">
+        <img src="/w3images/coffee.jpg" style="width:100%">
+      </div>
+      <div class="w3-half">
+        <img src="/w3images/workbench.jpg" style="width:100%">
+      </div>
+    </div>
+    <div class="w3-row w3-hide-small">
+      <div class="w3-half">
+        <img src="/w3images/workbench.jpg" style="width:100%">
+      </div>
+      <div class="w3-half">
+        <img src="/w3images/coffee.jpg" style="width:100%">
+      </div>
+    </div>
+
+    <div class="w3-row w3-hide-small">
+      <div class="w3-half">
+        <img src="/w3images/sound.jpg" style="width:100%">
+      </div>
+      <div class="w3-half">
+        <img src="/w3images/workbench.jpg" style="width:100%">
+      </div>
+    </div><br>
+    <p>Just call me awesome.</p>
+  </div>
+  <div class="w3-half w3-indigo w3-container" style="min-height:800px">
+    <div class="w3-padding-64 w3-center">
+      <h2>Resume</h2>
+      <p>A draft from my CV</p>
+      <div class="w3-container w3-responsive">
+        <table class="w3-table">
+          <tr>
+            <th>Year</th>
+            <th>Title</th>
+            <th>Where</th>
+          </tr>
+          <tr class="w3-white">
+            <td>2012-2016</td>
+            <td>The rest is history..</td>
+            <td>Lorem ipsum</td>
+          </tr>
+          <tr>
+            <td>2009-2012</td>
+            <td>Started my own company</td>
+            <td>My Garage</td>
+          </tr>
+          <tr class="w3-white">
+            <td>2008-2009</td>
+            <td>Started working for Lorem</td>
+            <td>London, UK</td>
+          </tr>
+          <tr>
+            <td>2005-2008</td>
+            <td>Degree in Bachelor of Design</td>
+            <td>Harvard, USA</td>
+          </tr>
+          <tr class="w3-white">
+            <td>2002-2005</td>
+            <td>Degree in Bachelor of Business</td>
+            <td>RMIT University, Melbourne, Australia</td>
+          </tr>
+          <tr class="w3-hide-medium">
+            <td>2002-2005</td>
+            <td>Degree in Bachelor of Business</td>
+            <td>RMIT University, Melbourne, Australia</td>
+          </tr>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Third Grid: Swing By & Contact -->
+<div class="w3-row" id="contact">
+  <div class="w3-half w3-dark-grey w3-container w3-center" style="height:700px">
+    <div class="w3-padding-64">
+      <h1>Swing By</h1>
+    </div>
+    <div class="w3-padding-64">
+      <p>..for a cup of coffee, or whatever.</p>
+      <p>Chicago, US</p>
+      <p>+00 1515151515</p>
+      <p>test@test.com</p>
+    </div>
+  </div>
+  <div class="w3-half w3-teal w3-container" style="height:700px">
+    <div class="w3-padding-64 w3-padding-large">
+      <h1>Contact</h1>
+      <p class="w3-opacity">GET IN TOUCH</p>
+      <form class="w3-container w3-card w3-padding-32 w3-white" action="/action_page.php" target="_blank">
+        <div class="w3-section">
+          <label>Name</label>
+          <input class="w3-input" style="width:100%;" type="text" required name="Name">
+        </div>
+        <div class="w3-section">
+          <label>Email</label>
+          <input class="w3-input" style="width:100%;" type="text" required name="Email">
+        </div>
+        <div class="w3-section">
+          <label>Message</label>
+          <input class="w3-input" style="width:100%;" type="text" required name="Message">
+        </div>
+        <button type="submit" class="w3-button w3-teal w3-right">Send</button>
+      </form>
+    </div>
+  </div>
+</div>
+
+<!-- Footer -->
+<footer >
+  <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>
+</footer>
 </html>

@@ -2,4 +2,6 @@ baseURL = 'https://paulbrown.net/'
 languageCode = 'en-us'
 title = 'Paul Brown, CMT'
 subtitle = 'The Home of Zero Point Advanced Myofascial Release'
-environment = 'development'
+author = 'Paul-Porter Brown, CMT'
+sectionPagesMenu = 'main'
+
