@@ -63,8 +63,8 @@ My nationally recognized [massage blog](/blog/) is full of all kinds of informat
 
 Pick your favorite comunication app:
 
-- Call [916-534-8772](tel:9165348772) to speak to me directly
-- Text [916-534-8772](sms:9165348772)
+- Call [916-534-8772](tel://9165348772) to speak to me directly
+- Text [916-534-8772](sms://9165348772)
 - [Email](message://paul@paulbrown.net)
 - [Whatsapp](https://wa.me/19165348772)
 - {{< instagram paulbrowncmt >}}
