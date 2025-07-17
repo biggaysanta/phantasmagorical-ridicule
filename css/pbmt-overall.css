@@ -7,34 +7,11 @@
                 box-sizing: border-box;
             }
             body { 
-                font-family: Poppins, sans-serif;
-                font-size: 1.3em;  
+                font-family: Poppins, sans-serif;  
                 background-color:linen; color:black; 
             }
-            h1 {
+            h1, h2, h3, h4, h5, h6 {
                 font-family: 'Abril Fatface', serif;
-                font-size: 3em;
             }
 
-            header {
-                background-color:
-                hsl(119, 86%, 25%); 
-                color:white
-            }
-            section.ZPAMFT 
-            {
-                background-color: hsl(119, 66%, 46%);
-                color:linen;
-            }
-            section.TWRM {
-                background-color: hsl(119, 66%, 46%);
-                color:linen;
-            }
-            section.CMW {
-                background-color: hsl(119, 66%, 46%);
-                color:linen;
-            }
-            section.WCSP {
-                background-color: seagreen;
-            }
             

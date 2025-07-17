@@ -18,7 +18,6 @@ menu: main
 - Ongoing lessened Pain and Stress
 
 - Improved mood
-
 - Greater Range of Motion
 
 - Boosted immune function
