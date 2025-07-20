@@ -1,24 +1,19 @@
 <!DOCTYPE html>
 <html>
-    <head>
         {{ partial "head.html"}}
-    </head>
     <body>
-        <header>
-            {{ partial "header.html"}}
-            <nav>
-                {{ partial "menu.html" (dict "menuID" "main")}}
-                <p>Debug: menuID passed to partial = {{ "main" }}</p>
-            </nav>
-        </header>
-        <main>
-           {{ $sections := .Page.sections }}
-            <section>
-                {{ partial "section.html" }}
-            </section>
+            {{ partial "header.html" }}
+        <main class="w3-content">
+            {{ if .Params.Author }}
+                <p class="w3-small">by: {{ .Params.Author }}</p>
+            {{ end }}
+            {{ if .Lastmod }}
+                <p class="w3-small">Last Updated: {{ .Lastmod }}</p>
+            {{end}}
+            {{ .Content }}
         </main>
         <footer>
-            {{ partial "/footer.html" }}
+            {{ partial "footer.html" }}
         </footer>
     </body>
 </html>

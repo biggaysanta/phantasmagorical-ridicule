@@ -1,0 +1,22 @@
+<div class="w3-panel w3-deepest-green w3-mobile">
+    {{ range .Pages   }} 
+    <h1>
+      {{- if eq .Kind "taxonomy" -}}
+        All {{ .Title }} posts
+      {{- else if eq .Kind "term" -}}
+        Posts tagged "{{ .Title }}"
+      {{- else -}}
+        Latest {{ .Title }} posts
+      {{- end -}}
+    </h1>
+    
+    <div class="w3-panel w3-deepest-green w3-mobile">
+        {{ $paginator := .Paginate .Pages 10}}
+      {{ range $paginator.Pages }}
+        <div>
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        </div>
+      {{ end }}
+    </div>
+{{ end }}
+</div>

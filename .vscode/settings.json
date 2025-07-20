@@ -18,5 +18,12 @@
     "pirsch",
     "Plotly",
     "urlize"
-  ]
+  ],
+  "editor.quickSuggestions": {
+    "other": "off"
+  },
+  "github-actions.workflows.pinned.workflows": [
+    "dynamic/pages/pages-build-deployment"
+  ],
+  "ignoreLogs": ["warning-goldmark-raw-html"]
 }

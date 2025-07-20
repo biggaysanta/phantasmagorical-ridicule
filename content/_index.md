@@ -1,77 +1,66 @@
 ---
-title: Paul Brown Massage Therapy
-description: The Home of Zero Point Advanced Myofascial Release, Winner's Circle Sports, Universal Miracle Prenatal, and Tidal Wave Relaxation Massages
+author: Paul-Porter Brown
 date: 2025-07-06T00:45:32.302Z
-tags: []
-categories: []
-lastmod: 2025-05-01T02:28:32.225Z
-slug: /
+lastmod: 2025-07-20T15:55:34.694Z
 menus:
-  main:
-    name: Home
-    identifier: home
-    params:
-      class: center
-    pre: <i class="fa-solid fa-home"></i>
-    weight: 1
-    title: Go to Home Page
-  main:
-    name: Book Now!
-    url: https://paulbrown.noterro.com/
-    weight: 20
-    title: Time to Book Your Session with Paul!
-    target: _blank
-  main:
-    name Buy eGift Cards
-    url: https://app.squareup.com/gift/BGPPNS6KGJ7WM/order
-    target: _blank
-    weight: 35
-    title: A Session with Paul Makes the Perfect Gift!
+    main:
+        - name: Home
+          weight: 1
+          title: Go to Home Page
+          url: /
+        - name: Book Now!
+          url: <https://paulbrown.noterro.com/>
+          weight: 20
+          title: Time to Book Your Session with Paul!
+          target: _blank
+        - name: Buy eGift Cards
+          url: <https://app.squareup.com/gift/BGPPNS6KGJ7WM/order>
+          target: _blank
+          weight: 35
+          title: A Session with Paul Makes the Perfect Gift!
+        - name: More Info
+          weight: 99
+          identifier: more-info
 ---
 
-## Hello, friend, what brings you here today?
+## Hello, Friend, what brings you by today?
 
-These are my four service offerings:
+### Looking Pain Relief?
 
-### Pain Relief  
+Let's send you to the Zero Point, with my innovative, comfortable, effective and collaborative [Zero-Point-Advanced-Myofascia-Release/](Zero Point Advanced Myofascial Release.)
 
-My advanced, innovative, pain-free, and collaborative [Zero Point Myofascial Release](/zero-point-myofascia-release/) will help you feel better.
+[Book Your Session Now - Feel Better Fast!](https://paulbrown.noterro.com)
 
-### Relaxation
+### or Maybe you just need to wipe out the stress of our crazy mixed-up times?
 
-Check out my one of a kind relaxation massage, [The Tidal Wave Relaxation Massage](/tidal-wave-relaxation-massage/)
+Just as a Tidal Wave sweeps everything in its path, my Tidal Wave Relaxation Massage will eliminate your stress!  [Learn More](tidal-wave-relaxation-massage/) - with my unique and amazing approach to relaxation, I guarantee you've never had anything like it!
 
-### Sports Massage
+[Book Your Tidal Wave Session Now - Ease Your Body and Mind](https://paulbrown.net.noterro.com)
 
-The [Winner's Circle Sports Massage](/winners-circle-sports-massage.) will keep you in tip-top shape!
+### or Perhaps you are looking to support your training routines, or pre- or post-event?
 
-or maybe:
+Step into the [Winner's Circle Sports Massage](winners-circle-sports-massage/) to learn more...
 
-### The OG Couples Massage Workshop
+[Book your Winner's Circle Sports Massage](https://paulbrown.noterro.com)
 
-The original, award-winning [Couples Massage Workshop](/couples-massage-workshop/)  - learn with your loved one in a private two-hour class!
+## Ah, then you must be looking for The OG and Still the Best Couples Massage Workshop
 
-## Massage Blog[*])(#blog)
+In this two-hour, private class, you and a loved one will learn:
 
-### Learn About My Approach to Bodywork
+- The Whole Body Does the Massage
+- Through the Process of Weight Transfer
+- While Maintaining a Good Line of Force
+- Having the Hands Move Last
+- and Backing Up to Get Low
 
-My nationally recognized Massage Blog is currently undergoing reconstruction - check back often and soon!
-~~
-My nationally recognized [massage blog](/blog/) is full of all kinds of informative and fun information about the body, massage, and more!~~
+With these five principles, you will learn how to stand, move, hand positions, control speed and pressure, safe (and not safe) landmarks on your bodies, and a lot more!  It's great fun, and you'll laugh a lot while learning a fun skill you can take home!
 
-## Contact Paul [*](#contact)
+I only book my Couples Massage Workshop over the phone or text: 916-534-8772
 
-Pick your favorite comunication app:
+## Well, then, perhaps you're looking for my Award Winning Massage Blog?
 
-- Call [916-534-8772](tel://9165348772) to speak to me directly
-- Text [916-534-8772](sms://9165348772)
-- [Email](message://paul@paulbrown.net)
-- [Whatsapp](https://wa.me/19165348772)
-- {{< instagram paulbrowncmt >}}
-- [Telegram](https://t.me/paulbrowncmt)
-- [Messenger](fb-messenger://paulbrowncmt)
-- [Signal](sgnl://biggaysanta)
+Sadly, at this time, the blog is undergoing repairs, kinda like Highway 50 (LOL), ok, maybe not that, but stay tuned, it'll be back better than ever!
 
-### If you like the content of my site:
-- [Cash App Me](cashme://paulpvbrown)
-- [Venmo Me](https://venmo.com/paulpvbrown)
+### Location
+
+### Contact

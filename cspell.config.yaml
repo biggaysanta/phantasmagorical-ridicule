@@ -1,0 +1,23 @@
+version: "0.2"
+ignorePaths: []
+dictionaryDefinitions: []
+dictionaries: []
+words:
+  - Azúcar
+  - Borge
+  - Egil
+  - Kodaiko
+  - Koja
+  - Myofascia
+  - Ochsner
+  - paulbrown
+  - paulbrowncmt
+  - Peasy
+  - pedi
+  - Refsnes
+  - signup
+  - twrm
+  - Venmo
+  - wcsm
+ignoreWords: []
+import: []

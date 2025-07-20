@@ -4,6 +4,10 @@ version: 0.01
 date: 13 July 2025
 description: wanted to choose easy to read fonts with an elegant style
  */
+ * {
+                margin: 0;
+                box-sizing: border-box;
+ }
 body {
   font-family: Poppins, sans-serif;
 }

@@ -1,7 +1,8 @@
 baseURL = 'https://paulbrown.net/'
 languageCode = 'en-us'
-title = 'Paul Brown, CMT'
-subtitle = 'The Home of Zero Point Advanced Myofascial Release'
-author = 'Paul-Porter Brown, CMT'
 sectionPagesMenu = 'main'
+title = "The Sacramento Massage Therapist"
+[Params]
+subtitle = 'Paul-Porter Brown, CMT'
+author = 'Paul-Porter Brown, CMT'
 
