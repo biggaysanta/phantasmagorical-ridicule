@@ -1,26 +1,12 @@
 ---
 author: Paul-Porter Brown
 date: 2025-07-06T00:45:32.302Z
-lastmod: 2025-07-20T15:55:34.694Z
-menus:
-    main:
-        - name: Home
-          weight: 1
-          title: Go to Home Page
-          url: /
-        - name: Book Now!
-          url: <https://paulbrown.noterro.com/>
-          weight: 20
-          title: Time to Book Your Session with Paul!
-          target: _blank
-        - name: Buy eGift Cards
-          url: <https://app.squareup.com/gift/BGPPNS6KGJ7WM/order>
-          target: _blank
-          weight: 35
-          title: A Session with Paul Makes the Perfect Gift!
-        - name: More Info
-          weight: 99
-          identifier: more-info
+lastmod: 2025-07-20T16:14:11.452Z
+menu:
+  main:
+    - name: Home
+      url: /
+      weight: 1
 ---
 
 ## Hello, Friend, what brings you by today?

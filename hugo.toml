@@ -5,4 +5,50 @@ title = "The Sacramento Massage Therapist"
 [Params]
 subtitle = 'Paul-Porter Brown, CMT'
 author = 'Paul-Porter Brown, CMT'
+[menus]
 
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Book Now!"
+    url = "https://paulbrown.noterro.com/"
+    weight = 20
+    title = "Time to Book Your Session with Paul!"
+
+  [[menu.main]]
+    name = "Buy eGift Cards"
+    url = "https://app.squareup.com/gift/BGPPNS6KGJ7WM/order"
+    weight = 35
+    title = "A Session with Paul Makes the Perfect Gift!"
+
+[    [[menu.main]]
+        name="Contact"
+        url="contact/"
+        title="Get in touch!"
+    [[menu.main ]]
+        name="Location"
+        url="location/"
+    [[menu.main]]
+        name = "More Info"
+        weight = 99
+        identifier = "more-info"
+[[menu.main ]]
+        name="Massage Prep"
+        url="massage-prep/"
+        title="How to do a Massage Prep"
+        parent="more-info"
+    [[menu.main]]
+        name="Advanced Table"
+        url="advanced-table"
+        parent="more-info"
+    [[menu.main]]
+        name="Privacy Policy"
+        url="privacy/"
+        parent="more-info"
+    [[menu.main]]
+        name="Terms and Conditions"
+        url="terms/"
+        parent="more-info"
