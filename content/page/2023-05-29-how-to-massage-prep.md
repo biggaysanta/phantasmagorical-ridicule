@@ -1,6 +1,9 @@
 ---
-title: "How to do a good Massage Prep"
-date: "2023-05-29"
+title: How to do a good Massage Prep
+slug: massage-prep/
+url: massage-prep/
+date: 2023-05-29
+lastmod: 2025-07-20T18:47:18.201Z
 ---
 
 ![How to do a good massage prep? You’ve come to the right place!](images/1fe30cc6e14d24720803942ecab1fc20c5c74bc5-1.jpg)

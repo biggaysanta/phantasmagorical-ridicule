@@ -1,9 +1,11 @@
 baseURL = 'https://paulbrown.net/'
 languageCode = 'en-us'
-sectionPagesMenu = 'main'
-title = "The Sacramento Massage Therapist"
+sectionPagesMenu = 'sections'
+title = "The Sacramento Massage Therapist - Paul Brown, CMT"
+
 [Params]
-subtitle = 'Paul-Porter Brown, CMT'
+subtitle="The Online Home of Zero Point Advanced Myofascial Release"
+
 author = 'Paul-Porter Brown, CMT'
 [menus]
 
@@ -24,31 +26,58 @@ author = 'Paul-Porter Brown, CMT'
     weight = 35
     title = "A Session with Paul Makes the Perfect Gift!"
 
-[    [[menu.main]]
+    [[menu.main]]
+        name="Services"
+        url="services/"
+        title="Check out my service offerings  "
+        weight = 40
+
+    [[menu.main]]
+        name="Blog"
+        url="blog/"
+        weight=50
+
+    [[menu.main]]
         name="Contact"
-        url="contact/"
+        url="#contact"
         title="Get in touch!"
+
     [[menu.main ]]
         name="Location"
-        url="location/"
+        url="#location"
+
     [[menu.main]]
         name = "More Info"
         weight = 99
         identifier = "more-info"
-[[menu.main ]]
-        name="Massage Prep"
-        url="massage-prep/"
-        title="How to do a Massage Prep"
-        parent="more-info"
-    [[menu.main]]
-        name="Advanced Table"
-        url="advanced-table"
-        parent="more-info"
-    [[menu.main]]
-        name="Privacy Policy"
-        url="privacy/"
-        parent="more-info"
-    [[menu.main]]
-        name="Terms and Conditions"
-        url="terms/"
-        parent="more-info"
+
+        [[menu.main ]]
+            name="Massage Prep"
+            url="massage-prep/"
+            title="How to do a Massage Prep"
+            parent="more-info"
+            weight=10
+
+        [[menu.main]]
+            name="Advanced Table"
+            url="advanced-table"
+            parent="more-info"
+            weight=20
+
+        [[menu.main]]
+            name = "Referral Program"
+            parent = "more-info"
+            weight = 25
+
+        [[menu.main]]
+            name="Privacy Policy"
+            url="privacy/"
+            parent="more-info"
+            weight=30
+
+        [[menu.main]]
+            name="Terms and Conditions"
+            url="terms/"
+            parent="more-info"
+            weight=40
+

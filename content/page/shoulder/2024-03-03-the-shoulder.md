@@ -1,11 +1,12 @@
 ---
-title: "The Shoulder"
-date: "2024-03-03"
+title: The Shoulder
+date: 2024-03-03
+lastmod: 2025-07-20T18:43:48.840Z
 ---
 
 # The Ultimate Shoulder and Massage Reference
 
-Here you will find the collection of pages and blog entries I have written over the years ' about the shoulder: rotator cuff, rhomboids, trapezia, and more! Please look around and you'll find information that will be useful to you!
+Here you will find the collection of pages and blog entries I have written over the years ' about the shoulder: rotator cuff, rhomboids, trapezium, and more! Please look around and you'll find information that will be useful to you!
 
 <figure>
 

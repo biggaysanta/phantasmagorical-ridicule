@@ -1,14 +1,17 @@
 ---
-title: "Prenatal Massage - What You Need To Know"
-date: "2023-06-16"
-coverImage: "pexels-photo-3863214.jpeg"
+title: Prenatal Massage - What You Need To Know
+date: 2023-06-16
+coverImage: pexels-photo-3863214.jpeg
+lastmod: 2025-07-21T02:04:18.224Z
+category: services
+url: prenatal-massage/
 ---
 
 ![happy young pregnant female caressing belly standing in room](images/pexels-photo-3863214.jpeg)
 
 Prenatal Massage is right for You!
 
-## \[icon name="hand-point-up" prefix="fas"\] Prenatal Massage Is for You!
+## \[icon name="hand-point-up" prefix="fas"\] Prenatal Massage Is for You
 
 Pregnant people have very special needs when it comes to massage:
 

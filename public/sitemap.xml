@@ -12,7 +12,7 @@
     <lastmod>2025-07-16T01:58:53+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-07-20T16:14:11+00:00</lastmod>
+    <lastmod>2025-07-20T16:35:15+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/page/zero-point-myofascial-release-what-you-need-to-know/</loc>
     <lastmod>2025-01-30T21:30:22+00:00</lastmod>
@@ -24,7 +24,7 @@
     <lastmod>2024-09-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-07-15T15:37:45+00:00</lastmod>
+    <lastmod>2025-07-20T18:08:07+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/myofascial-release/</loc>
     <lastmod>2024-09-30T00:00:00+00:00</lastmod>
@@ -33,7 +33,7 @@
     <lastmod>2024-09-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-07-15T15:37:45+00:00</lastmod>
+    <lastmod>2025-07-20T18:48:41+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/technique/</loc>
     <lastmod>2024-09-30T00:00:00+00:00</lastmod>
@@ -135,7 +135,7 @@
     <lastmod>2024-03-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/page/2024-03-03-the-shoulder/</loc>
-    <lastmod>2024-03-03T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-20T18:43:48+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/page/2024-02-02-valentines-day-gift-ideas/</loc>
     <lastmod>2024-02-02T00:00:00+00:00</lastmod>
@@ -194,11 +194,11 @@
     <loc>http://localhost:1313/page/2023-06-19-the-blog/</loc>
     <lastmod>2023-06-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/page/2023-06-18-appointment-policies/</loc>
+    <loc>http://localhost:1313/page/appointment-policies/</loc>
     <lastmod>2023-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/page/2023-06-16-prenatal-massage/</loc>
-    <lastmod>2023-06-16T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/prenatal-massage/</loc>
+    <lastmod>2025-07-21T02:04:18+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/2023-06-15-fathers-day-gift-idea/</loc>
     <lastmod>2023-06-15T00:00:00+00:00</lastmod>
@@ -260,8 +260,8 @@
     <loc>http://localhost:1313/tags/you-dont-have-to-hurt/</loc>
     <lastmod>2023-06-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/page/2023-05-29-how-to-massage-prep/</loc>
-    <lastmod>2023-05-29T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/massage-prep/</loc>
+    <lastmod>2025-07-20T18:47:18+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/page/2023-05-28-sports-massage/</loc>
     <lastmod>2023-05-28T00:00:00+00:00</lastmod>
@@ -371,8 +371,11 @@
     <loc>http://localhost:1313/post/2022-06-09-dads-and-grads-sale-2022/</loc>
     <lastmod>2022-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/page/2022-02-03-couples-massage-workshop/</loc>
-    <lastmod>2022-02-03T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/page/couples-massage-workshop/</loc>
+    <lastmod>2025-07-20T18:48:41+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/couples-massage-workshop/</loc>
+    <lastmod>2025-07-20T18:48:41+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/2022-01-14-you-deserve-it/</loc>
     <lastmod>2022-01-14T00:00:00+00:00</lastmod>
@@ -398,8 +401,11 @@
     <loc>http://localhost:1313/post/2021-11-11-holiday-availability/</loc>
     <lastmod>2021-11-11T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/categories/referral-plan/</loc>
+    <lastmod>2025-07-20T18:08:07+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/page/free-massage-referral-program/</loc>
-    <lastmod>2025-07-18T00:25:42+00:00</lastmod>
+    <lastmod>2025-07-20T18:08:07+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/2021-10-29-neck-and-low-back-pain-try-massage-study/</loc>
     <lastmod>2021-10-29T00:00:00+00:00</lastmod>

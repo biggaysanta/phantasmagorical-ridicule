@@ -1,7 +1,10 @@
 ---
-title: "Couples Massage Workshop"
-date: "2022-02-03"
-coverImage: "DC356F6B-702E-407D-97B4-9AD462C09938.png"
+title: Couples Massage Workshop
+date: 2022-02-03
+coverImage: DC356F6B-702E-407D-97B4-9AD462C09938.png
+lastmod: 2025-07-20T18:48:41.323Z
+category: Services
+tags: couples-massage-workshop
 ---
 
 ## Private Two-hour Couples Massage Workshop

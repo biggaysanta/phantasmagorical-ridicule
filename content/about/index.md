@@ -1,11 +1,8 @@
 ---
-title: Meet Sacramento Massage Therapist Paul Brown, CMT
+title: Meet Paul Brown, CMT
 date: 2020-05-24
 coverImage: IMG_3520.png
-lastmod: 2025-07-17T03:52:23.955Z
-menu: main
-url: about/
-weight: 50
+lastmod: 2025-07-21T03:04:47.667Z
 ---
 ![Paul Brown, CMT\cr
 I have a real passion for helping people live better, more pain-free lives through massage therapy and bodywork.

@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html>
         {{ partial "head.html"}}
-    <body>
+    <body class="w3-panel">
             {{ partial "header.html" }}
-        <main class="w3-content">
+        <main>
             {{ if .Params.Author }}
                 <p class="w3-small">by: {{ .Params.Author }}</p>
             {{ end }}
             {{ if .Lastmod }}
-                <p class="w3-small">Last Updated: {{ .Lastmod }}</p>
+                <p class="w3-small">Last Updated: {{ .Lastmod "2006-Jan-02"}}</p>
             {{end}}
             {{ .Content }}
         </main>
