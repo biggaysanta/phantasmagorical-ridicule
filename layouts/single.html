@@ -1,0 +1,7 @@
+           {{. .title .}}
+           {{ if .Params.Author }}
+                <p class="w3-small">by: {{ .Params.Author }}</p>
+            {{ end }}
+            {{ if .Lastmod }}
+                <p class="w3-small">Last Updated: {{ .Lastmod.Format "2006-Jan-02"}}</p>
+            {{end}}

@@ -1,19 +1,18 @@
 <!DOCTYPE html>
 <html>
         {{ partial "head.html"}}
-    <body class="w3-panel">
+    <body class="w3-panel w3-theme">
+        /* layout home.html */
+        <div> /*  header wrapper */
             {{ partial "header.html" }}
-        <main>
-            {{ if .Params.Author }}
-                <p class="w3-small">by: {{ .Params.Author }}</p>
-            {{ end }}
-            {{ if .Lastmod }}
-                <p class="w3-small">Last Updated: {{ .Lastmod "2006-Jan-02"}}</p>
-            {{end}}
+    </div> /* end header wrapper */
+        <div>/* main wrapper */
+            <main>
             {{ .Content }}
         </main>
-        <footer>
+        </div> /* end main wrapper */
+        <div>  /* footer wrapper */
             {{ partial "footer.html" }}
-        </footer>
+            </div> /*  end footer wrapper */
     </body>
 </html>

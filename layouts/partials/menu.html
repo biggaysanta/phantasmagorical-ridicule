@@ -1,41 +1,36 @@
 {{- $page := .page }}
-{{- $menuID := .menuID }} 
+{{- $menuID := .menuID }}
 {{- with index site.Menus $menuID }}
+<div class="w3-bar">
   <nav>
-    <ul>
-      {{- partial "inline/menu/walk.html" (dict "page" $page "menuEntries" .) }}
-    </ul>
+    {{- partial "inline/menu/walk.html" (dict "page" $page "menuEntries" .) }}
   </nav>
+</div>
 {{- end }}
 
 {{- define "_partials/inline/menu/walk.html" }}
   {{- $page := .page }}
   {{- range .menuEntries }}
-    {{- $attrs := dict "href" .URL }}
-    {{- if $page.IsMenuCurrent .Menu . }}
-      {{- $attrs = merge $attrs (dict "class" "active" "aria-current" "page") }}
-    {{- else if $page.HasMenuCurrent .Menu .}}
-      {{- $attrs = merge $attrs (dict "class" "ancestor" "aria-current" "true") }}
-    {{- end }}
     {{- $name := .Name }}
     {{- with .Identifier }}
       {{- with T . }}
         {{- $name = . }}
       {{- end }}
     {{- end }}
-    <li>
-      <a
-        {{- range $k, $v := $attrs }}
-          {{- with $v }}
-            {{- printf " %s=%q" $k $v | safeHTMLAttr }}
+
+    {{- if .URL }}
+      <a href="{{ .URL }}" class="w3-bar-item w3-button w3-mobile w3-hover-red w3-hover-text-black {{- if $page.IsMenuCurrent .Menu . }} w3-theme-dark{{- end }}">
+        {{ $name }}
+      </a>
+    {{- else }}
+      <div class="w3-dropdown-hover">
+        <button class="w3-button w3-theme w3-mobile w3-hover-red w3-hover-text-white ">{{ $name }}</button>
+        <div class="w3-dropdown-content w3-bar-block">
+          {{- with .Children }}
+            {{- partial "inline/menu/walk.html" (dict "page" $page "menuEntries" .) }}
           {{- end }}
-        {{- end -}}
-      >{{ $name }}</a>
-      {{- with .Children }}
-        <ul>
-          {{- partial "inline/menu/walk.html" (dict "page" $page "menuEntries" .) }}
-        </ul>
-      {{- end }}
-    </li>
+        </div>
+      </div>
+    {{- end }}
   {{- end }}
 {{- end }}

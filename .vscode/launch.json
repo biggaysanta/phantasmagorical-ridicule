@@ -1,0 +1,21 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "PowerShell",
+      "request": "launch",
+      "name": "Launch Current File (WhatIf)", // Give it a descriptive name
+      "script": "${file}",
+      "cwd": "${fileDirname}",
+      "args": ["-WhatIf"] // <-- ADD THIS LINE
+    },
+    {
+      "type": "PowerShell",
+      "request": "launch",
+      "name": "Launch Current File (Actual Run)", // Another config for actual run
+      "script": "${file}",
+      "cwd": "${fileDirname}"
+      // No "args" here for the actual run
+    }
+  ]
+}

@@ -3,9 +3,9 @@
 description: "You Don't Have to Hurt: advanced massage therapy to relieve neck pain, back pain, carpal tunnel, myofascial pain syndrome. "
 date: 2025-01-30T21:30:22.053Z
 preview: ""
-tags: []
-categories: []
-keywords: []
+tags: [myofascial release, zero point, pain relief]
+categories: [technique, bodywork]
+keywords: [myofascial release]
 fmContentType: html
 ---
 ## What is Zero Point Myofascial Release
@@ -16,17 +16,17 @@ Zero Point Myofascial Release is a form of bodywork based upon the principles an
 
 Myofascial tissue has two contractile states: contraction and eccentric contraction, and for the most part, it resides in one of those two states.  But there is a third state: ***The Zero Point***
 
-The zero point, technically the **liminal point** is, as its name suggests, the point between contraction and eccentric contraction.  This state is the very short-lived time when the muscle is either about to contract to perform an action, or eccentricly contract to resist, or stabilize, and action.  
+The zero point, technically the **liminal point** is, as its name suggests, the point between contraction and eccentric contraction.  This state is the very short-lived time when the muscle is either about to contract to perform an action, or eccentrically contract to resist, or stabilize, and action.  
 
-#### Agonism and Antagonism
+#### Agonist and Antagonist
 
-*Now I'm not talking about 8 year old you and your 7 year old sibling*, (Sorry, Vel) I mean muscles work in agonist-antagonist groupings - think about the biceps brachii and the triceps brachii: one of them flexes the elbow and shoulder, the other extends the elbow or shoulder.  When one is **agonizing** (that is, contracting), the other is **antagonizing**, eccentricly contracting, and vice versa.  They work this way to keep a movement stable - imagine if you didn't have triceps -- picking up a bucket would fling the bucket into the air, instead of a controlled lift.  The antagonism of the triceps against the biceps makes movement smooth and controlled.  That's pretty important!
+*Now I'm not talking about 8 year old you and your 7 year old sibling*, (Sorry, Vel) I mean muscles work in agonist-antagonist groupings - think about the biceps brachii and the triceps brachii: one of them flexes the elbow and shoulder, the other extends the elbow or shoulder.  When one is **agonizing** (that is, contracting), the other is **antagonizing**, eccentrically contracting, and vice versa.  They work this way to keep a movement stable - imagine if you didn't have triceps -- picking up a bucket would fling the bucket into the air, instead of a controlled lift.  The antagonism of the triceps against the biceps makes movement smooth and controlled.  That's pretty important!
 
 #### Why is the Zero Point Important?
 
 Imagine a piece of yarn.  If you take the yarn in your hands and stretch it apart, it will soon reach its maximum length before breaking.  Were there a counter force against your pulling, The maximum length would be much more difficult to reach, and the yarn could break before reaching its limit.  OK, we don't want your muscles to break, but we do want them to go to the place where fascial unwinding can occur.  And that place is the zero point.
 
-#### How it works####
+#### How it works
 
 When a patient puts the target muscle into the zero point, the tissue is as slack as it can be, and where the real power of myofascial release takes place.  The MT coaches the patient into that place, and then applies the MFR hold to that tissue.  That hold, alone or with assistance, will quickly resolve the fascial adhesion (knot, trigger, tightness, what have you), restoring tissue to its hypostatic state.  
 

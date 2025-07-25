@@ -4,12 +4,7 @@ date: 2023-09-29
 author: Paul-Porter Brown
 lastmod: 2025-07-15T23:03:07.333Z
 description: This document details my practices regarding the privacy of your data.
-menu:
-    main:
-        name: Privacy Policy
-        url: /privacy-policy/
-        parent: About
-        weight: 20
+
 ---
 
 ### Last Updated: {{  .lastmod  }}

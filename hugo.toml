@@ -2,17 +2,19 @@ baseURL = 'https://paulbrown.net/'
 languageCode = 'en-us'
 sectionPagesMenu = 'sections'
 title = "The Sacramento Massage Therapist - Paul Brown, CMT"
-
+ignoreLogs = ['warning-goldmark-raw-html']
+mainSections = [ "the shoulder", "low back pain", "myofascial release", "blog",  "about"]
 [Params]
 subtitle="The Online Home of Zero Point Advanced Myofascial Release"
 
-author = 'Paul-Porter Brown, CMT'
+author = "Paul-Porter Brown, CMT"
 [menus]
 
   [[menu.main]]
     name = "Home"
     url = "/"
     weight = 1
+    title="Back to the Home Page"
 
   [[menu.main]]
     name = "Book Now!"
@@ -28,23 +30,23 @@ author = 'Paul-Porter Brown, CMT'
 
     [[menu.main]]
         name="Services"
-        url="services/"
+        identifier="services"
         title="Check out my service offerings  "
         weight = 40
 
     [[menu.main]]
         name="Blog"
-        url="blog/"
+        url="/blog/"
         weight=50
 
     [[menu.main]]
         name="Contact"
-        url="#contact"
+        url="/contact"
         title="Get in touch!"
 
     [[menu.main ]]
         name="Location"
-        url="#location"
+        url="/location"
 
     [[menu.main]]
         name = "More Info"
@@ -60,24 +62,64 @@ author = 'Paul-Porter Brown, CMT'
 
         [[menu.main]]
             name="Advanced Table"
-            url="advanced-table"
+            url="/advanced-table/"
             parent="more-info"
             weight=20
 
+
         [[menu.main]]
+        name = "Zero Point Advanced Myofascial Release"
+        url = "/zero-point-advanced-myofascial-release/"
+        parent="services"
+        weight = 20
+
+        [[menu.main]]
+        name = "Tidal Wave Relaxation Massage"
+        url = "/tidal-wave-relaxation-massage/"
+        weight = 30
+       parent="services"
+
+        [[menu.main]]
+        name = "Winner's Circle Sports Massage"
+        url = "/winners-circle-sports-massage/"
+        weight = 40
+       parent="services"
+
+        [[menu.main]]
+        name = "Universal Miracle Pregnancy Massage"
+        url = "/pregnancy-massage/"
+       parent="services"
+
+        [[menu.main]]
+        name = "Couples Massage Workshop"
+        url = "/couples-massage-workshop/"
+        weight = 50
+        parent="services"
+
+        [[menu.main]]
+        name = "Public Speaking"
+        url = "/public-speaking/"
+        weight = 60
+        parent="services"
+
+       [[menu.footer]]
+        name="Home"
+        url="/"
+        title="Home Page"
+        weight=  10
+        [[main.footer]]
+        
+        [[menu.footer]]
             name = "Referral Program"
-            parent = "more-info"
+            url="/referrals/"
             weight = 25
 
-        [[menu.main]]
+        [[menu.footer]]
             name="Privacy Policy"
-            url="privacy/"
-            parent="more-info"
+            url="/privacy/"
             weight=30
 
-        [[menu.main]]
+        [[menu.footer]]
             name="Terms and Conditions"
-            url="terms/"
-            parent="more-info"
+            url="/terms/"
             weight=40
-

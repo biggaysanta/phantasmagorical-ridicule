@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/about/</loc>
-    <lastmod>2025-07-17T03:52:23+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/page/</loc>
     <lastmod>2025-07-17T04:10:26+00:00</lastmod>
   </url><url>
@@ -14,28 +11,37 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2025-07-20T16:35:15+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/page/what-you-need-to-kinow-zero-point-advanced-myofascial-release/</loc>
+    <lastmod>2025-01-30T21:30:22+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/page/zero-point-myofascial-release-what-you-need-to-know/</loc>
     <lastmod>2025-01-30T21:30:22+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2024-09-30-back-pain-massage-myofascial-release/</loc>
-    <lastmod>2024-09-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/back-pain/</loc>
-    <lastmod>2024-09-30T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/categories/bodywork/</loc>
+    <lastmod>2025-01-30T21:30:22+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
     <lastmod>2025-07-20T18:08:07+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/myofascial-release/</loc>
-    <lastmod>2024-09-30T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-30T21:30:22+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
-    <lastmod>2024-09-30T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/pain-relief/</loc>
+    <lastmod>2025-01-30T21:30:22+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-07-20T18:48:41+00:00</lastmod>
+    <lastmod>2025-07-15T15:37:45+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/technique/</loc>
+    <lastmod>2025-01-30T21:30:22+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/zero-point/</loc>
+    <lastmod>2025-01-30T21:30:22+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/back-pain-massage-myofascial-release/</loc>
+    <lastmod>2024-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/back-pain/</loc>
     <lastmod>2024-09-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/page/2024-08-20-contact-us/</loc>
@@ -62,7 +68,7 @@
     <loc>http://localhost:1313/tags/gift-ideas/</loc>
     <lastmod>2024-08-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2024-08-06-massage-holiday-gift-ideas/</loc>
+    <loc>http://localhost:1313/blog/massage-holiday-gift-ideas/</loc>
     <lastmod>2024-08-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/massage-holiday-gift-ideas/</loc>
@@ -83,7 +89,7 @@
     <loc>http://localhost:1313/tags/research/</loc>
     <lastmod>2024-07-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2024-07-31-massage-boosts-immunity/</loc>
+    <loc>http://localhost:1313/blog/massage-boosts-immunity/</loc>
     <lastmod>2024-07-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/science/</loc>
@@ -104,7 +110,7 @@
     <loc>http://localhost:1313/tags/mental-health/</loc>
     <lastmod>2024-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2024-05-06-my-depression-and-anxiety-strategy/</loc>
+    <loc>http://localhost:1313/blog/my-depression-and-anxiety-strategy/</loc>
     <lastmod>2024-05-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/self-care/</loc>
@@ -113,13 +119,16 @@
     <loc>http://localhost:1313/page/2024-04-09-sms-terms-of-service/</loc>
     <lastmod>2025-07-15T23:28:08+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/page/sms-terms-of-service/</loc>
+    <lastmod>2024-04-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/customer-service/</loc>
     <lastmod>2024-03-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/news/</loc>
     <lastmod>2024-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2024-03-08-pulling-up-short-aka-ctrrl-alt-del/</loc>
+    <loc>http://localhost:1313/blog/pulling-up-short-aka-ctrrl-alt-del/</loc>
     <lastmod>2024-03-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/self-care/</loc>
@@ -134,13 +143,22 @@
     <loc>http://localhost:1313/tags/thrive-not-survive/</loc>
     <lastmod>2024-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/page/2024-03-03-the-shoulder/</loc>
+    <loc>http://localhost:1313/page/shoulder/</loc>
     <lastmod>2025-07-20T18:43:48+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/page/the-shoulder/</loc>
+    <lastmod>2024-03-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/page/2024-02-02-valentines-day-gift-ideas/</loc>
     <lastmod>2024-02-02T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/page/valentines-day-gift-ideas/</loc>
+    <lastmod>2024-02-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/page/2024-01-22-you-dont-have-to-hurt/</loc>
+    <lastmod>2024-01-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/page/you-dont-have-to-hurt/</loc>
     <lastmod>2024-01-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/page/terms/</loc>
@@ -152,17 +170,17 @@
     <loc>http://localhost:1313/categories/science/</loc>
     <lastmod>2023-10-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2023-10-30-self-myofascial-release-helpful-or-a-waste-of-time/</loc>
+    <loc>http://localhost:1313/blog/self-myofascial-release-helpful-or-a-waste-of-time/</loc>
     <lastmod>2023-10-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/old_index/</loc>
-    <lastmod>2025-07-05T22:12:50+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/page/privacy-policy/</loc>
-    <lastmod>2025-07-15T23:03:07+00:00</lastmod>
+    <lastmod>2023-09-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/page/terms-service/</loc>
     <lastmod>2025-07-15T23:16:24+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/page/terms-service/</loc>
+    <lastmod>2023-09-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/deep-tissue/</loc>
     <lastmod>2023-06-23T00:00:00+00:00</lastmod>
@@ -188,19 +206,22 @@
     <loc>http://localhost:1313/tags/sports-massage/</loc>
     <lastmod>2023-06-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2023-06-23-massage-muse/</loc>
+    <loc>http://localhost:1313/blog/massage-muse/</loc>
     <lastmod>2023-06-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/page/2023-06-19-the-blog/</loc>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2023-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/page/the-blog/</loc>
     <lastmod>2023-06-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/page/appointment-policies/</loc>
     <lastmod>2023-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/prenatal-massage/</loc>
-    <lastmod>2025-07-21T02:04:18+00:00</lastmod>
+    <loc>http://localhost:1313/page/prenatal-massage/</loc>
+    <lastmod>2023-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2023-06-15-fathers-day-gift-idea/</loc>
+    <loc>http://localhost:1313/blog/fathers-day-gift-idea/</loc>
     <lastmod>2023-06-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/fathers-day/</loc>
@@ -212,7 +233,7 @@
     <loc>http://localhost:1313/tags/sacramento-massage/</loc>
     <lastmod>2023-06-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2023-06-14-autumn-is-for-for-massage/</loc>
+    <loc>http://localhost:1313/blog/autumn-is-for-for-massage/</loc>
     <lastmod>2023-06-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/breathe-and-be-present/</loc>
@@ -239,7 +260,7 @@
     <loc>http://localhost:1313/tags/medical-massage/</loc>
     <lastmod>2023-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2023-06-09-myofascial-release/</loc>
+    <loc>http://localhost:1313/blog/myofascial-release/</loc>
     <lastmod>2023-06-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/parallel-motion/</loc>
@@ -248,7 +269,7 @@
     <loc>http://localhost:1313/tags/bariatric-chronicles/</loc>
     <lastmod>2023-06-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2023-06-04-the-apple-test/</loc>
+    <loc>http://localhost:1313/blog/the-apple-test/</loc>
     <lastmod>2023-06-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/loneliness/</loc>
@@ -263,7 +284,10 @@
     <loc>http://localhost:1313/massage-prep/</loc>
     <lastmod>2025-07-20T18:47:18+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/page/2023-05-28-sports-massage/</loc>
+    <loc>http://localhost:1313/page/how-to-massage-prep/</loc>
+    <lastmod>2023-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/page/sports-massage/</loc>
     <lastmod>2023-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/injuries/</loc>
@@ -278,7 +302,7 @@
     <loc>http://localhost:1313/tags/myofascial-pain-syndrome/</loc>
     <lastmod>2023-05-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2023-05-27-rotator-cuff-injury/</loc>
+    <loc>http://localhost:1313/page/shoulder/shoulder-pain-rotator-cuff-injury/</loc>
     <lastmod>2023-05-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/rotator-cuff/</loc>
@@ -293,7 +317,7 @@
     <loc>http://localhost:1313/tags/memorial-day/</loc>
     <lastmod>2023-05-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2023-05-26-remembering-the-fallen/</loc>
+    <loc>http://localhost:1313/blog/remembering-the-fallen/</loc>
     <lastmod>2023-05-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/veterans/</loc>
@@ -302,7 +326,7 @@
     <loc>http://localhost:1313/tags/relaxation/</loc>
     <lastmod>2023-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2023-05-20-the-two-hour-massage-returns/</loc>
+    <loc>http://localhost:1313/blog/the-two-hour-massage-returns/</loc>
     <lastmod>2023-05-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/tidal-wave-massage/</loc>
@@ -317,16 +341,19 @@
     <loc>http://localhost:1313/tags/dailyprompt-1937/</loc>
     <lastmod>2023-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2023-05-16-myofascial-therapy-price-increase/</loc>
+    <loc>http://localhost:1313/blog/myofascial-therapy-price-increase/</loc>
     <lastmod>2023-05-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/pricing/</loc>
     <lastmod>2023-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2023-05-16-you-are-not-your-thoughts/</loc>
+    <loc>http://localhost:1313/blog/you-are-not-your-thoughts/</loc>
     <lastmod>2023-05-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/page/2023-04-18-massage-near-me/</loc>
+    <lastmod>2023-04-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/page/massage-near-me/</loc>
     <lastmod>2023-04-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/couples-massage/</loc>
@@ -335,7 +362,7 @@
     <loc>http://localhost:1313/tags/downtown/</loc>
     <lastmod>2023-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2023-01-20-februarys-feature/</loc>
+    <loc>http://localhost:1313/blog/februarys-feature/</loc>
     <lastmod>2023-01-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/nonsexual-intimacy/</loc>
@@ -350,7 +377,7 @@
     <loc>http://localhost:1313/tags/workshop/</loc>
     <lastmod>2023-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2023-01-02-january-special/</loc>
+    <loc>http://localhost:1313/blog/january-special/</loc>
     <lastmod>2023-01-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/special/</loc>
@@ -359,46 +386,40 @@
     <loc>http://localhost:1313/tags/fibromyalgia/</loc>
     <lastmod>2022-11-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2022-11-06-massage-and-fibromyalgia/</loc>
+    <loc>http://localhost:1313/blog/massage-and-fibromyalgia/</loc>
     <lastmod>2022-11-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2022-11-04-1528-2/</loc>
+    <loc>http://localhost:1313/blog/1528-2/</loc>
     <lastmod>2022-11-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2022-11-04-self-care-is-health-care/</loc>
+    <loc>http://localhost:1313/blog/self-care-is-health-care/</loc>
     <lastmod>2022-11-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2022-06-09-dads-and-grads-sale-2022/</loc>
+    <loc>http://localhost:1313/blog/dads-and-grads-sale-2022/</loc>
     <lastmod>2022-06-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/page/couples-massage-workshop/</loc>
-    <lastmod>2025-07-20T18:48:41+00:00</lastmod>
+    <lastmod>2022-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/couples-massage-workshop/</loc>
-    <lastmod>2025-07-20T18:48:41+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/2022-01-14-you-deserve-it/</loc>
+    <loc>http://localhost:1313/blog/you-deserve-it/</loc>
     <lastmod>2022-01-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2021-12-27-take-some-time-for-you/</loc>
+    <loc>http://localhost:1313/blog/take-some-time-for-you/</loc>
     <lastmod>2021-12-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2021-12-22-last-minute-egift-cards/</loc>
+    <loc>http://localhost:1313/blog/last-minute-egift-cards/</loc>
     <lastmod>2021-12-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2021-12-10-lorem-ipsum-3/</loc>
+    <loc>http://localhost:1313/blog/lorem-ipsum-2/</loc>
     <lastmod>2021-12-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2021-12-10-lorem-ipsum-2/</loc>
+    <loc>http://localhost:1313/blog/lorem-ipsum/</loc>
     <lastmod>2021-12-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2021-12-10-lorem-ipsum/</loc>
-    <lastmod>2021-12-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/2021-11-12-ready-for-today/</loc>
+    <loc>http://localhost:1313/blog/ready-for-today/</loc>
     <lastmod>2021-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2021-11-11-holiday-availability/</loc>
+    <loc>http://localhost:1313/blog/holiday-availability/</loc>
     <lastmod>2021-11-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/referral-plan/</loc>
@@ -407,10 +428,13 @@
     <loc>http://localhost:1313/page/free-massage-referral-program/</loc>
     <lastmod>2025-07-20T18:08:07+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2021-10-29-neck-and-low-back-pain-try-massage-study/</loc>
+    <loc>http://localhost:1313/page/free-massage/</loc>
+    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/neck-and-low-back-pain-try-massage-study/</loc>
     <lastmod>2021-10-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2021-09-15-what-is-myofascial-therapy/</loc>
+    <loc>http://localhost:1313/blog/what-is-myofascial-therapy/</loc>
     <lastmod>2021-09-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/history/</loc>
@@ -422,7 +446,7 @@
     <loc>http://localhost:1313/tags/pehr-henrik-ling/</loc>
     <lastmod>2021-08-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2021-08-25-what-is-swedish-massage/</loc>
+    <loc>http://localhost:1313/blog/what-is-swedish-massage/</loc>
     <lastmod>2021-08-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/anatomy/</loc>
@@ -434,7 +458,7 @@
     <loc>http://localhost:1313/tags/low-back-pain/</loc>
     <lastmod>2021-08-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2021-08-23-lower-back-pain-check-the-gluteus-medius/</loc>
+    <loc>http://localhost:1313/blog/lower-back-pain-check-the-gluteus-medius/</loc>
     <lastmod>2021-08-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/lumbago/</loc>
@@ -446,10 +470,10 @@
     <loc>http://localhost:1313/tags/stretches/</loc>
     <lastmod>2021-08-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2021-07-23-my-new-office-is-ready-for-you/</loc>
+    <loc>http://localhost:1313/blog/my-new-office-is-ready-for-you/</loc>
     <lastmod>2021-07-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2020-06-14-fathers-day-and-graduate-gift-cards/</loc>
+    <loc>http://localhost:1313/blog/fathers-day-and-graduate-gift-cards/</loc>
     <lastmod>2020-06-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/covid-19/</loc>
@@ -458,7 +482,10 @@
     <loc>http://localhost:1313/monthly-discount-membership/</loc>
     <lastmod>2025-07-17T03:55:10+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2020-06-13-special-covid-19-precautions/</loc>
+    <loc>http://localhost:1313/page/secret-handshake-club/</loc>
+    <lastmod>2020-06-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/special-covid-19-precautions/</loc>
     <lastmod>2020-06-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/special-announcements/</loc>
@@ -467,7 +494,16 @@
     <loc>http://localhost:1313/contact/</loc>
     <lastmod>2020-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2020-04-09-practice-temporarily-closed/</loc>
+    <loc>http://localhost:1313/page/contact/</loc>
+    <lastmod>2020-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2025-07-21T03:04:47+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/page/about/</loc>
+    <lastmod>2020-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/practice-temporarily-closed/</loc>
     <lastmod>2020-04-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/california-international-marathon/</loc>
@@ -476,16 +512,16 @@
     <loc>http://localhost:1313/tags/cim/</loc>
     <lastmod>2019-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2019-12-06-wishing-john-spires-luck-for-his-cim-attempt-this/</loc>
+    <loc>http://localhost:1313/blog/wishing-john-spires-luck-for-his-cim-attempt-this/</loc>
     <lastmod>2019-12-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/sponsorship/</loc>
     <lastmod>2019-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2019-12-05-egift-card-sale/</loc>
+    <loc>http://localhost:1313/blog/egift-card-sale/</loc>
     <lastmod>2019-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2019-11-01-this-weeks-sign/</loc>
+    <loc>http://localhost:1313/blog/this-weeks-sign/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/signmaking/</loc>
@@ -494,31 +530,31 @@
     <loc>http://localhost:1313/tags/thekay/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2019-10-31-who-doesnt-like-free-stuff/</loc>
+    <loc>http://localhost:1313/blog/who-doesnt-like-free-stuff/</loc>
     <lastmod>2019-10-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2019-10-31-click-here-for-a-special-deal-from-paul-brown/</loc>
+    <loc>http://localhost:1313/blog/click-here-for-a-special-deal-from-paul-brown/</loc>
     <lastmod>2019-10-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/massagelife/</loc>
     <lastmod>2019-10-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2019-08-14-saying-yes/</loc>
+    <loc>http://localhost:1313/blog/saying-yes/</loc>
     <lastmod>2019-08-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/new-years-resolution/</loc>
     <lastmod>2019-08-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2019-07-26-jim-js-review-of-paul-brown-massage-therapy/</loc>
+    <loc>http://localhost:1313/blog/jim-js-review-of-paul-brown-massage-therapy/</loc>
     <lastmod>2019-07-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2019-07-18-tawdrytalk-gnome-or-excuses-book-your-massage/</loc>
+    <loc>http://localhost:1313/blog/tawdrytalk-gnome-or-excuses-book-your-massage/</loc>
     <lastmod>2019-07-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2019-06-24-httpsgpagepaulbrownmassagetherapy/</loc>
+    <loc>http://localhost:1313/blog/httpsgpagepaulbrownmassagetherapy/</loc>
     <lastmod>2019-06-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2019-05-26-after-work-today-i-did-some-emotional-self-care/</loc>
+    <loc>http://localhost:1313/blog/after-work-today-i-did-some-emotional-self-care/</loc>
     <lastmod>2019-05-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/hugs/</loc>
@@ -527,7 +563,7 @@
     <loc>http://localhost:1313/tags/hugs-are-healing/</loc>
     <lastmod>2019-05-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2019-04-05-im-pleased-to-announce-my-sponsorship-of/</loc>
+    <loc>http://localhost:1313/blog/im-pleased-to-announce-my-sponsorship-of/</loc>
     <lastmod>2019-04-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/sac-royals/</loc>
@@ -539,7 +575,7 @@
     <loc>http://localhost:1313/tags/wheelchair-racing/</loc>
     <lastmod>2019-04-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2018-11-15-does-the-smoky-air-got-you-down-here-are-some/</loc>
+    <loc>http://localhost:1313/blog/does-the-smoky-air-got-you-down-here-are-some/</loc>
     <lastmod>2018-11-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/headache/</loc>
@@ -551,13 +587,13 @@
     <loc>http://localhost:1313/tags/self-massage/</loc>
     <lastmod>2018-11-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2018-11-09-honoring-veterans-this-veterans-day-weekend/</loc>
+    <loc>http://localhost:1313/blog/honoring-veterans-this-veterans-day-weekend/</loc>
     <lastmod>2018-11-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2018-10-18-arriving-with-the-autumnal-chill-in-the-air-flu/</loc>
+    <loc>http://localhost:1313/blog/arriving-with-the-autumnal-chill-in-the-air-flu/</loc>
     <lastmod>2018-10-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2018-09-15-5-bad-habits-walking-can-help-kick-myfitnesspal/</loc>
+    <loc>http://localhost:1313/blog/5-bad-habits-walking-can-help-kick-myfitnesspal/</loc>
     <lastmod>2018-09-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/hydration/</loc>
@@ -566,22 +602,22 @@
     <loc>http://localhost:1313/tags/walking/</loc>
     <lastmod>2018-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2018-06-05-scalp-massage-yes/</loc>
+    <loc>http://localhost:1313/blog/scalp-massage-yes/</loc>
     <lastmod>2018-06-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/scalp-massage/</loc>
     <lastmod>2018-06-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2018-05-18-this-kind-of-pressure-reduces-the-other-kind-of/</loc>
+    <loc>http://localhost:1313/blog/this-kind-of-pressure-reduces-the-other-kind-of/</loc>
     <lastmod>2018-05-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2018-05-04-its-warm-outside-stay-hydrated/</loc>
+    <loc>http://localhost:1313/blog/its-warm-outside-stay-hydrated/</loc>
     <lastmod>2018-05-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2018-04-19-bariatric-chronicles-on-dealing-cravings/</loc>
+    <loc>http://localhost:1313/blog/bariatric-chronicles-on-dealing-cravings/</loc>
     <lastmod>2018-04-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2018-04-13-the-happy-baby-pose-or-ananda-balasana-is-a-deep/</loc>
+    <loc>http://localhost:1313/blog/the-happy-baby-pose-or-ananda-balasana-is-a-deep/</loc>
     <lastmod>2018-04-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/adductors/</loc>
@@ -599,13 +635,13 @@
     <loc>http://localhost:1313/tags/yoga/</loc>
     <lastmod>2018-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2018-02-18-i-entered-the-330s-today-hw-457-03222017/</loc>
+    <loc>http://localhost:1313/blog/i-entered-the-330s-today-hw-457-03222017/</loc>
     <lastmod>2018-02-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2018-02-17-one-90m-massage-down-one-to-go/</loc>
+    <loc>http://localhost:1313/blog/one-90m-massage-down-one-to-go/</loc>
     <lastmod>2018-02-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2018-02-07-new-infill-development-in-oak-park/</loc>
+    <loc>http://localhost:1313/blog/new-infill-development-in-oak-park/</loc>
     <lastmod>2018-02-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/gentrification/</loc>
@@ -620,10 +656,10 @@
     <loc>http://localhost:1313/tags/sacrt/</loc>
     <lastmod>2018-02-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2018-01-30-late-morning-in-winters-ca-2/</loc>
+    <loc>http://localhost:1313/blog/late-morning-in-winters-ca-2/</loc>
     <lastmod>2018-01-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2018-01-30-late-morning-in-winters-ca/</loc>
+    <loc>http://localhost:1313/blog/late-morning-in-winters-ca/</loc>
     <lastmod>2018-01-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/winters/</loc>
@@ -632,19 +668,19 @@
     <loc>http://localhost:1313/tags/yolo-county/</loc>
     <lastmod>2018-01-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2018-01-06-913-2/</loc>
+    <loc>http://localhost:1313/blog/913-2/</loc>
     <lastmod>2018-01-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2017-12-18-the-power-of-touch-especially-for-men/</loc>
+    <loc>http://localhost:1313/blog/the-power-of-touch-especially-for-men/</loc>
     <lastmod>2017-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2017-12-15-happy-rules-to-live-by/</loc>
+    <loc>http://localhost:1313/blog/happy-rules-to-live-by/</loc>
     <lastmod>2017-12-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2017-11-28-getting-your-steps-in/</loc>
+    <loc>http://localhost:1313/blog/getting-your-steps-in/</loc>
     <lastmod>2017-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2017-11-24-black-friday-sale/</loc>
+    <loc>http://localhost:1313/blog/black-friday-sale/</loc>
     <lastmod>2017-11-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/black-friday/</loc>
@@ -653,10 +689,10 @@
     <loc>http://localhost:1313/tags/sale/</loc>
     <lastmod>2017-11-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2017-10-23-theracanes-are-great/</loc>
+    <loc>http://localhost:1313/blog/theracanes-are-great/</loc>
     <lastmod>2017-10-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2017-07-08-what-to-blame-for-your-stomach-bug-not-always-the/</loc>
+    <loc>http://localhost:1313/blog/what-to-blame-for-your-stomach-bug-not-always-the/</loc>
     <lastmod>2017-07-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/hand-pain/</loc>
@@ -665,7 +701,7 @@
     <loc>http://localhost:1313/tags/latissimus-dorsi/</loc>
     <lastmod>2017-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2017-07-07-mid-back-pain-check-the-lats/</loc>
+    <loc>http://localhost:1313/blog/mid-back-pain-check-the-lats/</loc>
     <lastmod>2017-07-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/rib-pain/</loc>
@@ -674,7 +710,7 @@
     <loc>http://localhost:1313/tags/massage-and-veterans/</loc>
     <lastmod>2017-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2017-06-16-massage-servicemembers-and-veterans/</loc>
+    <loc>http://localhost:1313/blog/massage-servicemembers-and-veterans/</loc>
     <lastmod>2017-06-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/ptsd/</loc>
@@ -686,19 +722,19 @@
     <loc>http://localhost:1313/tags/wounded-warriors/</loc>
     <lastmod>2017-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2017-05-12-now-accepting-venmo/</loc>
+    <loc>http://localhost:1313/blog/now-accepting-venmo/</loc>
     <lastmod>2017-05-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/venmo/</loc>
     <lastmod>2017-05-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2017-05-09-i-have-a-last-minute-opening-today-call/</loc>
+    <loc>http://localhost:1313/blog/i-have-a-last-minute-opening-today-call/</loc>
     <lastmod>2017-05-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2017-04-08-all-done/</loc>
+    <loc>http://localhost:1313/blog/all-done/</loc>
     <lastmod>2017-04-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2017-03-24-youre-fine-just-the-way-you-are/</loc>
+    <loc>http://localhost:1313/blog/youre-fine-just-the-way-you-are/</loc>
     <lastmod>2017-03-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/body-acceptance/</loc>
@@ -710,13 +746,13 @@
     <loc>http://localhost:1313/tags/hip-adductors/</loc>
     <lastmod>2017-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2017-02-14-the-overlooked-hipsters-the-adductors/</loc>
+    <loc>http://localhost:1313/blog/the-overlooked-hipsters-the-adductors/</loc>
     <lastmod>2017-02-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/trigger-points/</loc>
     <lastmod>2017-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2017-02-13-via-httpswwwyoutubecomwatchv-dr97vqvvtaai/</loc>
+    <loc>http://localhost:1313/blog/via-httpswwwyoutubecomwatchv-dr97vqvvtaai/</loc>
     <lastmod>2017-02-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/comfort-craft/</loc>
@@ -728,10 +764,10 @@
     <loc>http://localhost:1313/tags/model-800/</loc>
     <lastmod>2017-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2017-01-30-944-2/</loc>
+    <loc>http://localhost:1313/blog/944-2/</loc>
     <lastmod>2017-01-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2017-01-30-be-present-and-breathe/</loc>
+    <loc>http://localhost:1313/blog/be-present-and-breathe/</loc>
     <lastmod>2017-01-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/prenatal-massage/</loc>
@@ -740,7 +776,7 @@
     <loc>http://localhost:1313/tags/prenatalmassage/</loc>
     <lastmod>2017-01-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2017-01-06-ill-be-seeing-clients-this-monday-january-9th/</loc>
+    <loc>http://localhost:1313/blog/ill-be-seeing-clients-this-monday-january-9th/</loc>
     <lastmod>2017-01-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/monday/</loc>
@@ -749,19 +785,19 @@
     <loc>http://localhost:1313/tags/golden-one-center/</loc>
     <lastmod>2017-01-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2017-01-05-new-location/</loc>
+    <loc>http://localhost:1313/blog/new-location/</loc>
     <lastmod>2017-01-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/the-kay/</loc>
     <lastmod>2017-01-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2016-11-25-save-big-on-massage-gift-vouchers-im-very/</loc>
+    <loc>http://localhost:1313/blog/save-big-on-massage-gift-vouchers-im-very/</loc>
     <lastmod>2016-11-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2016-11-11-private-couples-massage-workshop/</loc>
+    <loc>http://localhost:1313/blog/private-couples-massage-workshop/</loc>
     <lastmod>2016-11-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2016-10-22-another-5-star-review-for-my-couples-massage/</loc>
+    <loc>http://localhost:1313/blog/another-5-star-review-for-my-couples-massage/</loc>
     <lastmod>2016-10-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/flu-season/</loc>
@@ -770,13 +806,13 @@
     <loc>http://localhost:1313/tags/flu-shot/</loc>
     <lastmod>2016-09-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2016-09-20-flu-shot/</loc>
+    <loc>http://localhost:1313/blog/flu-shot/</loc>
     <lastmod>2016-09-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2016-09-11-im-donating-three-free-months-membership-in-my/</loc>
+    <loc>http://localhost:1313/blog/im-donating-three-free-months-membership-in-my/</loc>
     <lastmod>2016-09-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2016-09-01-the-well-run-group-is-not-a-battlefield-of-egos/</loc>
+    <loc>http://localhost:1313/blog/the-well-run-group-is-not-a-battlefield-of-egos/</loc>
     <lastmod>2016-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/group-dynamics/</loc>
@@ -788,10 +824,10 @@
     <loc>http://localhost:1313/tags/tao/</loc>
     <lastmod>2016-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2016-08-24-following-up-i-worked-on-that-client-from-the/</loc>
+    <loc>http://localhost:1313/blog/following-up-i-worked-on-that-client-from-the/</loc>
     <lastmod>2016-08-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2016-08-24-koan-the-muddy-road-tanzan-and-ekido-were-once/</loc>
+    <loc>http://localhost:1313/blog/koan-the-muddy-road-tanzan-and-ekido-were-once/</loc>
     <lastmod>2016-08-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/pbmt/</loc>
@@ -800,31 +836,31 @@
     <loc>http://localhost:1313/tags/zen-buddhism/</loc>
     <lastmod>2016-08-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2016-08-23-i-love-when-this-sort-of-thing-happens-did-you/</loc>
+    <loc>http://localhost:1313/blog/i-love-when-this-sort-of-thing-happens-did-you/</loc>
     <lastmod>2016-08-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/pbny/</loc>
     <lastmod>2016-08-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2016-08-20-harder-than-normal/</loc>
+    <loc>http://localhost:1313/blog/harder-than-normal/</loc>
     <lastmod>2016-08-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2016-08-11-shoulder-pain-supraspinatus/</loc>
+    <loc>http://localhost:1313/page/shoulder/shoulder-pain-supraspinatus/</loc>
     <lastmod>2016-08-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/supraspinatus/</loc>
     <lastmod>2016-08-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2016-08-07-chris-a-video-testimonial/</loc>
+    <loc>http://localhost:1313/blog/chris-a-video-testimonial/</loc>
     <lastmod>2016-08-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/video-testimonial/</loc>
     <lastmod>2016-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/shoulder-pain-part-1-infraspinatus/</loc>
+    <loc>http://localhost:1313/page/shoulder/shoulder-pain-part-1-infraspinatus/</loc>
     <lastmod>2016-08-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2016-07-30-i-was-doing-some-data-analysis-this-morning-of/</loc>
+    <loc>http://localhost:1313/blog/i-was-doing-some-data-analysis-this-morning-of/</loc>
     <lastmod>2016-07-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/data-analysis/</loc>
@@ -836,7 +872,7 @@
     <loc>http://localhost:1313/tags/pie-chart/</loc>
     <lastmod>2016-07-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2016-07-26-you-can-help-reduce-the-low-back-strain-you-feel/</loc>
+    <loc>http://localhost:1313/blog/you-can-help-reduce-the-low-back-strain-you-feel/</loc>
     <lastmod>2016-07-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/cfib/</loc>
@@ -848,19 +884,16 @@
     <loc>http://localhost:1313/tags/stretch/</loc>
     <lastmod>2016-07-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/pain-relief/</loc>
-    <lastmod>2016-07-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/2016-07-18-shoulder-pain-subscapularis/</loc>
+    <loc>http://localhost:1313/page/shoulder/shoulder-pain-subscapularis/</loc>
     <lastmod>2016-07-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/subscapularis/</loc>
     <lastmod>2016-07-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2016-07-11-paul-browns-sacramento-massage-therapy-pain/</loc>
+    <loc>http://localhost:1313/blog/paul-browns-sacramento-massage-therapy-pain/</loc>
     <lastmod>2016-07-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2016-07-09-via-httpswwwyoutubecomwatchv-syxdsv9sbvq/</loc>
+    <loc>http://localhost:1313/blog/via-httpswwwyoutubecomwatchv-syxdsv9sbvq/</loc>
     <lastmod>2016-07-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/policies/</loc>
@@ -884,10 +917,10 @@
   </url><url>
     <loc>http://localhost:1313/tags/comfort-craft-model-800/</loc>
   </url><url>
-    <loc>http://localhost:1313/post/invalid-datetime-new-essential-oil-massage-options/</loc>
-  </url><url>
     <loc>http://localhost:1313/page/no-more-pain-advanced-massage-table/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/patient-comfort/</loc>
+  </url><url>
+    <loc>http://localhost:1313/services/</loc>
   </url>
 </urlset>
