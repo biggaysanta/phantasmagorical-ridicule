@@ -54,4 +54,4 @@ enjoy!
 
 ### And if you haven't already booked?
 
-<button class="w3-theme">Book Your Massage</button>
+{{ button class w3-button text "Book Your Massage Now!" }}

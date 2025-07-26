@@ -14,7 +14,7 @@ author = "Paul-Porter Brown, CMT"
     name = "Home"
     url = "/"
     weight = 1
-    title="Back to the Home Page"
+    title="Home Page"
 
   [[menu.main]]
     name = "Book Now!"
@@ -107,8 +107,32 @@ author = "Paul-Porter Brown, CMT"
         url="/"
         title="Home Page"
         weight=  10
-        [[main.footer]]
-        
+        [[menu.footer]]
+            name = "Book Now!"
+            url = "https://paulbrown.noterro.com/"
+            weight = 20
+            title = "Time to Book Your Session with Paul!"
+
+        [[menu.footer]]
+            name = "Buy eGift Cards"
+            url = "https://app.squareup.com/gift/BGPPNS6KGJ7WM/order"
+            weight = 25
+            title = "A Session with Paul Makes the Perfect Gift!"
+
+        [[menu.footer]]
+            name="Services"
+            url="/services/"
+            weight=10
+
+        [[menu.footer]]
+            name="Blog"
+            url="/blog/"
+            weight=15
+
+        [[menu.footer]]
+            name="Contact"
+            url="/contact/"
+            weight=20        
         [[menu.footer]]
             name = "Referral Program"
             url="/referrals/"
@@ -123,3 +147,5 @@ author = "Paul-Porter Brown, CMT"
             name="Terms and Conditions"
             url="/terms/"
             weight=40
+
+
