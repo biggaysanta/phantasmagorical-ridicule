@@ -8,11 +8,8 @@ date: "2020-06-09"
 [
 
 717 K Street
-
-Suite 529
-
+Suite 204
 Sacramento, California 95814
-
 USA
 
 ](https://www.google.com/maps/search/717+K Street,Suite 529,+Sacramento,+California,+95814+USA "Open address in Google Maps")
