@@ -5,7 +5,7 @@ Renders a menu for the given menu ID.
 @context {string} menuID The menu ID.
 
 @example: {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
-*/}}
+
 
 {{- $page := .page }}
 {{- $menuID := .menuID }}
@@ -43,6 +43,74 @@ Renders a menu for the given menu ID.
       >{{ $name }}</a>
       {{- with .Children }}
         <ul>
+          {{- partial "inline/menu/walk.html" (dict "page" $page "menuEntries" .) }}
+        </ul>
+      {{- end }}
+    </li>
+  {{- end }}
+{{- end }}
+*/}}
+{{- /*
+Renders a menu for the given menu ID with Tailwind CSS classes,
+maintaining a semantic <ul>/<li> hierarchical structure.
+
+@context {page} page The current page.
+@context {string} menuID The menu ID.
+
+@example: {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
+*/}}
+
+{{- $page := .page }}
+{{- $menuID := .menuID }}
+
+{{- with index site.Menus $menuID }}
+  <nav class="w-full bg-theme-green text-white p-4 shadow-md rounded-b-lg">
+    {{/* The main menu container - using flex for layout of top-level items */}}
+    <ul class="flex flex-col md:flex-row justify-center items-center md:space-x-4 space-y-2 md:space-y-0 list-none p-0 m-0">
+      {{- partial "inline/menu/walk.html" (dict "page" $page "menuEntries" .) }}
+    </ul>
+  </nav>
+{{- end }}
+
+{{- define "_partials/inline/menu/walk.html" }}
+  {{- $page := .page }}
+  {{- range .menuEntries }}
+    {{- $linkClasses := "block px-4 py-2 rounded-md transition-colors duration-200 ease-in-out" }}
+    {{- $linkTextClasses := "text-white hover:bg-theme-green-light-2 hover:text-theme-green" }}
+    {{- $activeClasses := "bg-theme-green-light-2 text-theme-green font-semibold" }}
+    {{- $ancestorClasses := "bg-theme-green-light-1 text-theme-green" }}
+
+    {{- $combinedClasses := $linkTextClasses }}
+    {{- $ariaCurrent := "" }}
+
+    {{- if $page.IsMenuCurrent .Menu . }}
+      {{- $combinedClasses = printf "%s %s" $linkClasses $activeClasses }}
+      {{- $ariaCurrent = "page" }}
+    {{- else if $page.HasMenuCurrent .Menu . }}
+      {{- $combinedClasses = printf "%s %s" $linkClasses $ancestorClasses }}
+      {{- $ariaCurrent = "true" }}
+    {{- else }}
+      {{- $combinedClasses = printf "%s %s" $linkClasses $linkTextClasses }}
+    {{- end }}
+
+    {{/* Restored <li> for the menu item container */}}
+    <li class="w-full md:w-auto relative"> {{/* relative for absolute positioning of children */}}
+      <a
+        href="{{ .URL }}"
+        class="{{ $combinedClasses }}"
+        {{- with $ariaCurrent }} aria-current="{{ . }}"{{- end }}
+      >
+        {{- $name := .Name }}
+        {{- with .Identifier }}
+          {{- with T . }}
+            {{- $name = . }}
+          {{- end }}
+        {{- end }}
+        {{ $name }}
+      </a>
+      {{- with .Children }}
+        {{/* Restored <ul> for the sub-menu container */}}
+        <ul class="ml-4 md:ml-0 md:absolute md:mt-2 md:bg-theme-green-dark-1 md:shadow-lg md:rounded-md flex flex-col list-none p-0">
           {{- partial "inline/menu/walk.html" (dict "page" $page "menuEntries" .) }}
         </ul>
       {{- end }}

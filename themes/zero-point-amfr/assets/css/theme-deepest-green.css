@@ -1,13 +1,21 @@
-.theme-l5 {color:#000 !important; background-color:#e8fce8 !important}
-.theme-l4 {color:#000 !important; background-color:#b3f4b2 !important}
-.theme-l3 {color:#000 !important; background-color:#68e965 !important}
-.theme-l2 {color:#fff !important; background-color:#22d81f !important}
-.theme-l1 {color:#fff !important; background-color:#168b14 !important}
-.theme-d1 {color:#fff !important; background-color:#093808 !important}
-.theme-d2 {color:#fff !important; background-color:#083207 !important}
-.theme-d3 {color:#fff !important; background-color:#072c06 !important}
-.theme-d4 {color:#fff !important; background-color:#062505 !important}
-.theme-d5 {color:#fff !important; background-color:#051f04 !important}
+@theme {
+    --color-green-l5: #e8fce8;
+    --color-green-l4: #b3f4b2;
+    --color-green-l3: #68e965;
+    --color-green-l2: #22d81f;
+    --color-green-l1: #168b14;
+    --color-green-d1: #093808;
+    --color-green-d2: #083207;
+    --color-green-d3: #072c06;
+    --color-green-d4: #602505;
+    --color-green-d5: #051f04;
+    --colors-gradient-start:  hsla(120,38%,79%,1) 0%;
+    --colors-gradient-stop-17: hsla(120,38%,65%,1) 17%
+    --colors-gradient-stop-33: hsla(120,38%,51%,1) 33%
+    --colors-gradient-stop-67: hsla(120,100%,27%,1) 67%
+    --colors-gradient-stop-83 hsla(120,100%,17%,1) 83%
+    --colors-gradient-100: hsla(120,100%,7%,1) 100%)
+}
 
 /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#b4ddb4+0,83c783+17,52b152+33,008a00+67,005700+83,002400+100;Green+3D+%231 */
 .gradient {background: linear-gradient(to bottom,  hsla(120,38%,79%,1) 0%,hsla(120,38%,65%,1) 17%,hsla(120,38%,51%,1) 33%,hsla(120,100%,27%,1) 67%,hsla(120,100%,17%,1) 83%,hsla(120,100%,7%,1) 100%); }
