@@ -4,7 +4,7 @@
   "description": "Am I not right?",
   "main": "index.js",
   "scripts": {
-    "dev": "tailwindcss -i ./assets/css/main.css -o ./static/css/style.css --watch",
+    "dev": "tailwindcss -i ./assets/css/source.css -o ./static/css/style.css --watch",
     "build": "tailwindcss -i ./assets/css/main.css -o ./static/css/style.css --minify",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
