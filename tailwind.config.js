@@ -1,54 +1,64 @@
-        // tailwind.config.js
-        /** @type {import('tailwindcss'.Config)} */
-        module.exports = {
-          content: [
-            "./layouts/**/*.html",
-            "./content/**/*.md"
-            // Add other paths where you use Tailwind classes
-          ],
-          theme: {
-            extend: {
-              fonts: {
-                --font-sans: ui-sans-serif, system-ui, sans-serif, Poppins, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-                --font-serif: ui-serif, "Abril Fatface", Georgia, Cambria, "Times New Roman", Times, serif;
-                --font-mono: ui-monospace, Copperplate, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-                --font-Abril: 'Abril Fatface', serif;
-                h1, h2, h3, h4, h5, h6 {
-                font-family: 'Abril Fatface', serif;
-}
-  /* ... */
-              }
-              colors: {
-                 'theme-green': {
-                      DEFAULT: '#0a4009', // Your original .theme color
-                      'light-5': '#e8fce8', // .theme-l5
-                      'light-4': '#b3f4b2', // .theme-l4
-                      'light-3': '#68e965', // .theme-l3
-                      'light-2': '#22d81f', // .theme-l2
-                      'light-1': '#168b14', // .theme-l1
-                      'dark-1': '#093808',  // .theme-d1
-                      'dark-2': '#083207',  // .theme-d2
-                      'dark-3': '#072c06',  // .theme-d3
-                      'dark-4': '#062505',  // .theme-d4
-                      'dark-5': '#051f04',  // .theme-d5 (also .theme-dark and .theme-action)
-                    },
-                    // You can also define direct aliases if you prefer
-                 'theme-light': '#e8fce8', // Your original .theme-light
-                 'theme-dark': '#051f04',  // Your original .theme-dark
-                 'theme-action': '#051f04',// Your original .theme-action
-                          },
-                    // ... existing theme-green scale ...
-                  'gradient-start': 'hsla(120,38%,79%,1)', // #b4ddb4
-                  'gradient-stop-17': 'hsla(120,38%,65%,1)', // #83c783
-                  'gradient-stop-33': 'hsla(120,38%,51%,1)', // #52b152
-                  'gradient-stop-67': 'hsla(120,100%,27%,1)', // #008a00
-                  'gradient-stop-83': 'hsla(120,100%,17%,1)', // #005700
-                  'gradient-stop-100': 'hsla(120,100%,7%,1)' // #002400
-            },
-          },
-          plugins: [
-            require('@headlessui/tailwindcss')          ]
-        }
-        // tailwind.config.js - Add these if they are distinct from your theme-green scale
-// You can put them directly under 'colors' or 'theme-green' object
+// themes/zero-point-amfr/tailwind.config.js
+
+import { defineConfig } from 'vite'
+
+/** @type {import('tailwindcss').Config} */
+export default {
+  // Specify which files Tailwind should scan for class names.
+  content: [
+    "./layouts/**/*.html",
+    "./content/**/*.md",
+  ],
+
+  // Define and extend Tailwind's default theme.
+  theme: {
+    // We use "extend" to add new values without overwriting the defaults.
+    extend: {
+      // Define your custom font families here.
+      fontFamily: {
+        sans: ['Poppins', 'ui-sans-serif', 'system-ui', 'sans-serif'],
+        serif: ['Abril Fatface', 'ui-serif', 'Georgia', 'Cambria', 'Times New Roman', 'Times', 'serif'],
+        mono: ['ui-monospace', 'Copperplate', 'SFMono-Regular', 'Menlo', 'Monaco', 'Consolas', 'Liberation Mono', 'Courier New', 'monospace'],
+        abril: ['Abril Fatface', 'serif'],
+      },
+      
+      // Define your custom color palette using the oklch format.
+      colors: {
+        // Main theme colors, now grouped under a single key.
+        'theme-green': {
+          DEFAULT: 'oklch(0.24 0.15 125.79)', // #0a4009
+          'light-5': 'oklch(0.97 0.02 125.79)', // #e8fce8
+          'light-4': 'oklch(0.85 0.14 125.79)', // #b3f4b2
+          'light-3': 'oklch(0.7 0.23 125.79)', // #68e965
+          'light-2': 'oklch(0.6 0.28 125.79)', // #22d81f
+          'light-1': 'oklch(0.42 0.24 125.79)', // #168b14
+          'dark-1': 'oklch(0.22 0.14 125.79)', // #093808
+          'dark-2': 'oklch(0.2 0.13 125.79)', // #083207
+          'dark-3': 'oklch(0.18 0.12 125.79)', // #072c06
+          'dark-4': 'oklch(0.16 0.11 125.79)', // #062505
+          'dark-5': 'oklch(0.14 0.1 125.79)', // #051f04
+        },
+        
+        // Define your custom gradient colors clearly.
+        'gradient': {
+          start: 'oklch(0.85 0.08 120)', // hsla(120,38%,79%,1)
+          'stop-17': 'oklch(0.75 0.12 120)', // hsla(120,38%,65%,1)
+          'stop-33': 'oklch(0.65 0.16 120)', // hsla(120,38%,51%,1)
+          'stop-67': 'oklch(0.48 0.24 120)', // hsla(120,100%,27%,1)
+          'stop-83': 'oklch(0.35 0.24 120)', // hsla(120,100%,17%,1)
+          'stop-100': 'oklch(0.21 0.24 120)', // hsla(120,100%,7%,1)
+        },
+
+        // Direct aliases for specific colors.
+        'theme-light': 'oklch(0.97 0.02 125.79)',
+        'theme-dark': 'oklch(0.14 0.1 125.79)',
+        'theme-action': 'oklch(0.14 0.1 125.79)',
+      },
+    },
+  },
+
+  // Add your plugins here.
+  plugins: [
+    require('@headlessui/tailwindcss')
+  ],
 }

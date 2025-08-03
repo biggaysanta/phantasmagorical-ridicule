@@ -5,7 +5,7 @@ lastmod: 2025-07-16T01:58:53.877Z
 author: Paul-Porter Brown, CMT
 date: 2025-07-16
 type: page
-theme: w3-theme-darkest-green
+theme: theme-darkest-green
 ---
 
 ## Google Map
@@ -14,7 +14,7 @@ I've embedded this Google Map to show the location of street and garage parking 
 
 ![View the interactive Google Map](https://www.google.com/maps/d/viewer?mid=1WtbWYov22H8k9ANR3L33272cc6-o_LA&hl=en&ehbc=2E312F)
 
-Downtown is a lively place to [come get a massage](https://paulbrown.noterro.com/), or a mani-pedi, or enjoy a great meal, check out the theatre, show, enjoy nightlife! If for some reason you feel uncomfortable after a late afternoon or evening appointment, I would be happy to escort you to your car.  Truly, though, it's completely unnecessary.
+Downtown is a lively place to [come get a massage](https://paulbrown.noterro.com/), or a mani-pedi, or enjoy a great meal, check out the theatre, show, enjoy nightlife!
 
 ## Local Recommendations
 
@@ -31,3 +31,16 @@ I mean, how can you go wrong with a name like **With Sugar**? The coffee is real
 
 - [Sauced BBQ & Spirits](www.saucedbbqandspirits.com)
 I just have two words: axe throwing.  OK, maybe two more: good barbecue.
+
+- [https://darlingaviary.com](Darling Aviary)
+How can you go wrong with a rooftop bar that offers nice views of downtown and DOCO?
+
+- [https://goldenonecenter.com](Golden One Center)
+  Safe to say, the most popular event venue around - home of the Sacramento Kings, this modern, state-of-the-art arena is perfect for concerts, ice skating, monster trucks, and graduations!  Plus, the box office is right across 7th Street if you want to get a ticket at the last minute.
+- Estelle's Patisserie
+  My secret love.
+- Macaron
+- Champagne
+- Hagen Daas
+
+And so many more... Downtown is way more cool that the suburbanites think!

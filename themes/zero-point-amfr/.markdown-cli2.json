@@ -1,0 +1,11 @@
+{
+  "ignore": [
+    "**/.git",
+    "**/node_modules",
+    "**/vendor"
+  ],
+  "config": {
+    "MD013": false,
+    "MD041": false  
+  }
+}

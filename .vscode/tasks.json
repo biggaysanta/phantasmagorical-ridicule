@@ -2,25 +2,40 @@
   "version": "2.0.0",
   "tasks": [
     {
-      "type": "hugo",
-      "task": "",
+      "label": "Hugo Server (Drafts)",
+      "type": "shell",
+      "command": "hugo server -D",
       "group": "build",
-      "problemMatcher": [],
-      "label": "hugo: Build site"
+      "isBackground": true,
+      "presentation": {
+        "reveal": "always",
+        "panel": "new"
+      },
+      "problemMatcher": []
     },
     {
-      "type": "hugo",
-      "task": "server draft",
+      "label": "Tailwind CSS Watch",
+      "type": "shell",
+      "command": "cd themes/zero-point-amfr && npx tailwindcss -i assets/css/main.css -o static/css/style.css --watch",
       "group": "build",
-      "problemMatcher": [],
-      "label": "hugo: Serve draft site"
+      "isBackground": true,
+      "presentation": {
+        "reveal": "always",
+        "panel": "new"
+      },
+      "problemMatcher": []
     },
     {
       "type": "npm",
       "script": "dev",
       "problemMatcher": [],
-      "label": "npm: dev",
-      "detail": "tailwindcss -i ./assets/css/main.css -o ./static/css/style.css --watch"
+      "label": "npm: dev"
+    }
+  ],
+  "compounds": [
+    {
+      "label": "dev",
+      "tasks": ["Hugo Server (Drafts)", "Tailwind CSS Watch"]
     }
   ]
 }

@@ -11,9 +11,11 @@ words:
   - Borge
   - brachii
   - disqus
+  - DOCO
   - Egil
   - epicondyle
   - epicondylitis
+  - flexbox
   - goldmark
   - headlessui
   - hypostatic
@@ -32,6 +34,7 @@ words:
   - pedi
   - pexels
   - Refsnes
+  - safelist
   - signup
   - subscapularis
   - supraspinatus
@@ -42,5 +45,8 @@ words:
   - Venmo
   - wcsm
   - webp
+  - xlarge
+  - xxlarge
+  - xxxlarge
 ignoreWords: []
 import: []
