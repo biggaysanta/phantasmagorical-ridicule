@@ -43,4 +43,4 @@ How can you go wrong with a rooftop bar that offers nice views of downtown and D
 - Champagne
 - Hagen Daas
 
-And so many more... Downtown is way more cool that the suburbanites think!
+And so many more... Downtown is way more cool than the 'burbies think!

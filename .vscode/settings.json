@@ -25,5 +25,12 @@
   "github-actions.workflows.pinned.workflows": [
     "dynamic/pages/pages-build-deployment"
   ],
-  "ignoreLogs": ["warning-goldmark-raw-html"]
+  "ignoreLogs": ["warning-goldmark-raw-html"],
+
+    "cSpell.ignorePaths": [
+        "**/node_modules/**",
+        "**/dist/**",
+        "**/.github/**",
+        "**/*.min.js"
+    ]
 }

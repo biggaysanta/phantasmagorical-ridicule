@@ -147,5 +147,10 @@ author = "Paul-Porter Brown, CMT"
             name="Terms and Conditions"
             url="/terms/"
             weight=40
+[permalinks]
+    [permalinks.post]
+        blog = "/:slug/"
+    [permalinks.page]
+        page = "/:slug/"
 
 
