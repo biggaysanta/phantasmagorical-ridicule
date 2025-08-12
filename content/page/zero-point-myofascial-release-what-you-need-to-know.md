@@ -7,6 +7,7 @@ tags: [myofascial release, zero point, pain relief]
 categories: [technique, bodywork]
 keywords: [myofascial release]
 fmContentType: html
+slug: zero-point-myofascial-release-what-you-need-to-know
 ---
 ## What is Zero Point Myofascial Release
 
@@ -16,11 +17,11 @@ Zero Point Myofascial Release is a form of bodywork based upon the principles an
 
 Myofascial tissue has two contractile states: contraction and eccentric contraction, and for the most part, it resides in one of those two states.  But there is a third state: ***The Zero Point***
 
-The zero point, technically the **liminal point** is, as its name suggests, the point between contraction and eccentric contraction.  This state is the very short-lived time when the muscle is either about to contract to perform an action, or eccentrically contract to resist, or stabilize, and action.  
+The zero point, technically the **liminal point** is, as its name suggests, the point between contraction and eccentric contraction.  This state is the very short-lived time when the muscle is either about to contract to perform an action, or eccentrically contract to resist, or stabilize, an action.  
 
 #### Agonist and Antagonist
 
-*Now I'm not talking about 8 year old you and your 7 year old sibling*, (Sorry, Vel) I mean muscles work in agonist-antagonist groupings - think about the biceps brachii and the triceps brachii: one of them flexes the elbow and shoulder, the other extends the elbow or shoulder.  When one is **agonizing** (that is, contracting), the other is **antagonizing**, eccentrically contracting, and vice versa.  They work this way to keep a movement stable - imagine if you didn't have triceps -- picking up a bucket would fling the bucket into the air, instead of a controlled lift.  The antagonism of the triceps against the biceps makes movement smooth and controlled.  That's pretty important!
+*Now I'm not talking about 8 year old you and your 7 year old sibling*, (Sorry, Vel) I mean muscles work in agonist-antagonist groupings - think about the biceps brachii and the triceps brachii: one of them flexes the elbow and shoulder, the other extends the elbow and shoulder.  When one is **agonizing** (that is, contracting), the other is **antagonizing**, eccentrically contracting, and vice versa.  They work this way to keep a movement stable - imagine if you didn't have triceps -- picking up a bucket would fling the bucket into the air, instead of a controlled lift.  The antagonism of the triceps against the biceps makes movement smooth and controlled.  That's pretty important!
 
 #### Why is the Zero Point Important?
 
@@ -32,7 +33,8 @@ When a patient puts the target muscle into the zero point, the tissue is as slac
 
 A skilled therapist will detect the sometimes very faint signal from the tissue indicating unwinding, and move on to the next location for the work.  Being sensitive to this subtle movement means tissue will not be overworked, and patient comfort is maintained and improved.
 
-***Zero Point AMFR*** makes work more efficient, collaborative, pain free, and long lasting.
+### ***Zero Point AMFR*** makes work more efficient 
+collaborative, pain free, and long lasting.
 
 Paul Brown, CMT, is proud to offer this unique take on MFR, and invites you to experience its gentle power first hand.
 

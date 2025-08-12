@@ -38,7 +38,7 @@ All content on the Website, including text, images, graphics, videos, and other 
 
 ### 2.2 User-Generated Content
 
-If you submit or post any user-generated content on the Website, such as reviews or comments, you grant me a non-exclusive, royalty-free, worldwide license to use, reproduce, modify, and publish that content for any purpose.
+If you submit or post any user-generated content on the Website, such as reviews or comments or any other content, you grant me a perpetual, non-exclusive, royalty-free, worldwide license to use, reproduce, modify, and publish that content for any purpose.
 
 ### 3. Privacy
 

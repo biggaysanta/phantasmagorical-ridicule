@@ -23,7 +23,7 @@ Sacramento, CA 95814
 
 ## Information We Collect
 
-I collect and process personal information for the purpose of providing my massage therapy services. The types of personal information I may collect include but are not limited to:
+I collect and process personal information for the purpose of providing my massage therapy and other services. The types of personal information I may collect include but are not limited to:
 
 1. **Contact Information:** Name, address, email address, phone number.
 
@@ -68,7 +68,7 @@ If you have any questions or concerns about our Privacy Policy or how I handle y
 
 [Contact Page](/#contact/)
 
-## Changes to th## s Privacy Policy
+## Changes to this Privacy Policy
 
 I reserve the right to update or modify this Privacy Policy at any time. Any changes will be posted on my website with the revised date, and I encourage you to review this policy periodically.
 

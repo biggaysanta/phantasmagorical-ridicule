@@ -41,12 +41,13 @@ author = "Paul-Porter Brown, CMT"
 
     [[menu.main]]
         name="Contact"
-        url="/contact"
+        url="/contact/"
         title="Get in touch!"
 
     [[menu.main ]]
         name="Location"
-        url="/location"
+        url="/location/"
+        weight=60
 
     [[menu.main]]
         name = "More Info"
@@ -89,6 +90,7 @@ author = "Paul-Porter Brown, CMT"
         name = "Universal Miracle Pregnancy Massage"
         url = "/pregnancy-massage/"
        parent="services"
+       weight=45
 
         [[menu.main]]
         name = "Couples Massage Workshop"
@@ -144,9 +146,15 @@ author = "Paul-Porter Brown, CMT"
             weight=30
 
         [[menu.footer]]
+            name="Return Policy"
+            url="/return-policy/"
+            weight=35
+
+        [[menu.footer]]
             name="Terms and Conditions"
             url="/terms/"
             weight=40
+
 [permalinks]
     [permalinks.post]
         blog = "/:slug/"
