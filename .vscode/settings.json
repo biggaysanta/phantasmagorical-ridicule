@@ -35,5 +35,7 @@
         "**/dist/**",
         "**/.github/**",
         "**/*.min.js"
-    ]
+    ],
+    "terminal.integrated.defaultProfile.osx": "pwsh",
+    "terminal.integrated.defaultProfile.windows": "pwsh"
 }
