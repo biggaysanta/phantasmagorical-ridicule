@@ -156,9 +156,6 @@ author = "Paul-Porter Brown, CMT"
             weight=40
 
 [permalinks]
-    [permalinks.post]
-        blog = "/:slug/"
-    [permalinks.page]
-        page = "/:slug/"
-
+    blog = "/:slug/"
+    page = "/:slug/"
 
