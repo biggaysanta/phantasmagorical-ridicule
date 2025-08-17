@@ -1,5 +1,7 @@
 version: "0.2"
-ignorePaths: []
+ignorePaths: [ "node_modules", "dist", "build", "coverage", "vendor", "public", "out", ".next", ".nuxt", ".cache" 
+  , ".vscode-test", ".vscode", "cspell.config.js", "cspell.json", "cspell.json5", "cspell.yaml", "cspell.yml" ]
+  
 dictionaryDefinitions: []
 dictionaries: []
 words:
@@ -17,26 +19,35 @@ words:
   - Egil
   - epicondyle
   - epicondylitis
+  - fastq
   - flexbox
   - goldmark
   - headlessui
   - hypostatic
   - infraspinatus
   - infraspinous
+  - jridgewell
   - knobber
   - Kodaiko
   - Koja
+  - loong
   - Myofascia
   - nfraspinatus
+  - nodelib
   - Ochsner
+  - openharmony
+  - parseargs
   - paulbrown
   - paulbrowncmt
   - pbmt
   - Peasy
   - pedi
   - pexels
+  - pkgjs
   - Refsnes
+  - riscv
   - safelist
+  - scandir
   - signup
   - subscapularis
   - supraspinatus

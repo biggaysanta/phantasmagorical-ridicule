@@ -19,6 +19,41 @@
 			"corepack": true,
 			"pnpmVersion": "latest"
 		}
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"streetsidesoftware.code-spell-checker",
+				"docker.docker",
+				"ms-vscode-remote.remote-containers",
+				"zehfernando.theme-actual-obsidian",
+				"bierner.emojisense",
+				"aaron-bond.better-comments",
+				"alefragnani.Bookmarks",
+				"ms-azuretools.vscode-containers",
+				"EditorConfig.EditorConfig",
+				"usernamehw.errorlens",
+				"dbaeumer.vscode-eslint",
+				"tamasfe.even-better-toml",
+				"field.hugo-pack",
+				"tombonnike.vscode-status-bar-format-toggle",
+				"mhutchie.git-graph",
+				"github.vscode-github-actions",
+				"GitHub.copilot",
+				"GitHub.copilot-chat",
+				"GitHub.vscode-pull-request-github",
+				"GitHub.remotehub",
+				"GitHub.github-vscode-theme",
+				"eamodio.gitlens",
+				"golang.go",
+				"msyrus.go-doc",
+				"766b.go-outliner",
+				"jinliming2.vscode-go-template",
+				"heybourn.headwind",
+				"rusnasonov.vscode-hugo",
+				"budparr.language-hugo-vscode"
+			]
+		}
 	}
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
