@@ -1,5 +1,5 @@
 {
-  "cSpell.words": [
+    "cSpell.words": [
     "blox",
     "bradlc",
     "bungcip",
@@ -28,14 +28,18 @@
   "github-actions.workflows.pinned.workflows": [
     "dynamic/pages/pages-build-deployment"
   ],
+  
   "ignoreLogs": ["warning-goldmark-raw-html"],
 
-    "cSpell.ignorePaths": [
-        "**/node_modules/**",
-        "**/dist/**",
-        "**/.github/**",
-        "**/*.min.js"
-    ],
-    "terminal.integrated.defaultProfile.osx": "pwsh",
-    "terminal.integrated.defaultProfile.windows": "pwsh"
-}
+  "files.associations": {
+    "*.css": "tailwindcss"
+},
+  "cSpell.ignorePaths": [
+    "**/node_modules/**",
+    "**/dist/**",
+    "**/.github/**",
+    "**/*.min.js"
+  ],
+  "terminal.integrated.defaultProfile.osx": "pwsh",
+  "terminal.integrated.defaultProfile.windows": "pwsh"
+  }

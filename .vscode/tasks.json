@@ -2,40 +2,9 @@
   "version": "2.0.0",
   "tasks": [
     {
-      "label": "Hugo Server (Drafts)",
+      "label": "start fresh for this platform",
       "type": "shell",
-      "command": "hugo server -D",
-      "group": "build",
-      "isBackground": true,
-      "presentation": {
-        "reveal": "always",
-        "panel": "new"
-      },
-      "problemMatcher": []
-    },
-    {
-      "label": "Tailwind CSS Watch",
-      "type": "shell",
-      "command": "cd themes/zero-point-amfr && npx tailwindcss -i assets/css/main.css -o static/css/style.css --watch",
-      "group": "build",
-      "isBackground": true,
-      "presentation": {
-        "reveal": "always",
-        "panel": "new"
-      },
-      "problemMatcher": []
-    },
-    {
-      "type": "npm",
-      "script": "dev",
-      "problemMatcher": [],
-      "label": "npm: dev"
-    }
-  ],
-  "compounds": [
-    {
-      "label": "dev",
-      "tasks": ["Hugo Server (Drafts)", "Tailwind CSS Watch"]
+      "command": "git pull && npm ci"
     }
   ]
 }

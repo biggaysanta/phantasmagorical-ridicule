@@ -6,10 +6,12 @@ import { defineConfig } from 'vite'
 export default {
   // Specify which files Tailwind should scan for class names.
   content: [
-    "./layouts/**/*.html",
     "./content/**/*.md",
+    "./theme/zero-point-amfr/**/*.js",
+    "./theme/zero-point-amfr/**/*.html",
+    "./themes/zero-point-amfr/**/*.jsx",
+    "./themes/zero-point-amfr/**/*.css"
   ],
-
   // Define and extend Tailwind's default theme.
   theme: {
     // We use "extend" to add new values without overwriting the defaults.
@@ -57,8 +59,9 @@ export default {
     },
   },
 
-  // Add your plugins here.
+  // Add your plugins here.s
   plugins: [
     require('@headlessui/tailwindcss')
   ],
 }
+
