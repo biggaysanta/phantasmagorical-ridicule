@@ -1,0 +1,48 @@
+@import "tailwindcss/preflight";
+@import "tailwindcss/utilities";
+
+@layer base {
+  /*
+   * The 'body' rule should use standard CSS syntax.
+   * 'font-sans' is a custom font family defined in tailwind.config.js,
+   * which includes 'Poppins'.
+   */
+  body {
+    font-family: 'Poppins', 'ui-sans-serif', 'system-ui', 'sans-serif';
+  }
+
+  /* This is the correct rule for setting the font for all headings */
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Abril Fatface', serif;
+  }
+}
+@layer base {
+  /*
+   * The 'body' rule should use standard CSS syntax.
+   * 'font-sans' is a custom font family defined in tailwind.config.js,
+   * which includes 'Poppins'.
+   */
+  body {
+    font-family: 'Poppins', 'ui-sans-serif', 'system-ui', 'sans-serif';
+  }
+
+  /* This is the correct rule for setting the font for all headings */
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Abril Fatface', serif;
+  }
+}
+
+@layer components {
+  .card {
+    @apply p-6 transition-shadow duration-300 bg-white rounded-lg shadow-lg;
+  }
+  .card:hover {
+    @apply "shadow-xl";
+  }
+  .card-title {
+    @apply mb-2 text-xl font-bold text-theme-green-dark-1;
+  }
+  .card-body {
+    @apply text-gray-700;
+  }
+}
